@@ -61,11 +61,11 @@ def best_book(date='current',query='hardcover-fiction',api_key=api_key):
 
 
 
-#Function for getting 14 published date and dataframes and concatenating them on 1 dataframe
+#Function for getting 28 published date and dataframes and concatenating them on 1 dataframe
 def best_ctg_maker(query='hardcover-fiction',api_key=api_key):
     dfs=[]
     previous_dates=["current"]
-    for i in range(14):
+    for i in range(28):
         df=best_book(date=previous_dates[i],query=query)
         dfs.append(df[0])
         previous_dates.append(df[1])
