@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 rank,primary_isbn13,publisher,title,author,category,pub_date
 11,9781982168018,Gallery,TASTE,Stanley Tucci,Hardcover Nonfiction,2022-02-06
 8,9780062888341,Harper,THE STRANGER IN THE LIFEBOAT,Mitch Albom,Hardcover Fiction,2022-02-06
@@ -1236,3 +1237,1243 @@ rank,primary_isbn13,publisher,title,author,category,pub_date
 12,9781439152805,Atria Books,THE SECRET KEEPER,Kate Morton,Combined Print Fiction,2012-11-04
 2,9780345504982,Random House Publishing,THE TWELVE,Justin Cronin,Combined Print Fiction,2012-11-04
 20,9780307886279,Crown Publishing,IS EVERYONE HANGING OUT WITHOUT ME?,Mindy Kaling,Combined Print Nonfiction,2012-11-04
+=======
+rank,primary_isbn13,publisher,title,author,category,pub_date
+11,9781982168018,Gallery,TASTE,Stanley Tucci,Hardcover Nonfiction,2022-02-06
+8,9780062888341,Harper,THE STRANGER IN THE LIFEBOAT,Mitch Albom,Hardcover Fiction,2022-02-06
+10,9780385547932,Doubleday,TO PARADISE,Hanya Yanagihara,Hardcover Fiction,2022-02-06
+11,9780593465066,Viking,CALL US WHAT WE CARRY,Amanda Gorman,Hardcover Fiction,2022-02-06
+12,9781982168438,Scribner,CLOUD CUCKOO LAND,Anthony Doerr,Hardcover Fiction,2022-02-06
+14,9781538728628,Grand Central,THE WISH,Nicholas Sparks,Hardcover Fiction,2022-02-06
+15,9781101885680,Delacorte,GO TELL THE BEES THAT I AM GONE,Diana Gabaldon,Hardcover Fiction,2022-02-06
+1,9780593230572,One World,THE 1619 PROJECT,"edited  Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",Hardcover Nonfiction,2022-02-06
+2,9780358567363,Harvest,ENOUGH ALREADY,Valerie Bertinelli,Hardcover Nonfiction,2022-02-06
+3,9780062892355,Harper,THE BETRAYAL OF ANNE FRANK,Rosemary Sullivan,Hardcover Nonfiction,2022-02-06
+4,9780063209787,Harper,UNTHINKABLE,Jamie Raskin,Hardcover Nonfiction,2022-02-06
+5,9780593139134,Crown,GREENLIGHTS,Matthew McConaughey,Hardcover Nonfiction,2022-02-06
+6,9781984877925,Penguin Press,WILL,Will Smith with Mark Manson,Hardcover Nonfiction,2022-02-06
+7,9780525657743,Knopf,CRYING IN H MART,Michelle Zauner,Hardcover Nonfiction,2022-02-06
+8,9780063076099,Dey Street,THE STORYTELLER,Dave Grohl,Hardcover Nonfiction,2022-02-06
+9,9781984801258,Dial,UNTAMED,Glennon Doyle,Hardcover Nonfiction,2022-02-06
+10,9781982132118,Atria,BLOOD IN THE GARDEN,Chris Herring,Hardcover Nonfiction,2022-02-06
+12,9781510766808,Skyhorse,THE REAL ANTHONY FAUCI,Robert F. Kennedy Jr,Hardcover Nonfiction,2022-02-06
+13,9781637630594,Forefront,THE GREAT RESET,Glenn Beck with Justin Haskins,Hardcover Nonfiction,2022-02-06
+14,9781982173760,Simon & Schuster,JUST PURSUIT,Laura Coates,Hardcover Nonfiction,2022-02-06
+15,9781984878106,Viking,THINK AGAIN,Adam Grant,Hardcover Nonfiction,2022-02-06
+9,9781984818416,Ballantine,WISH YOU WERE HERE,Jodi Picoult,Hardcover Fiction,2022-02-06
+13,9780593296844,Viking,SOMETHING TO HIDE,Elizabeth George,Hardcover Fiction,2022-02-06
+7,9780385546027,Doubleday,THE JUDGE'S LIST,John Grisham,Hardcover Fiction,2022-02-06
+5,9780593185414,Dutton,ONE STEP TOO FAR,Lisa Gardner,Hardcover Fiction,2022-02-06
+4,9780316499774,"Little, Brown",THE HORSEWOMAN,James Patterson and Mike Lupica,Hardcover Fiction,2022-02-06
+3,9780735222359,Viking,THE LINCOLN HIGHWAY,Amor Towles,Hardcover Fiction,2022-02-06
+2,9780593356159,Ballantine,THE MAID,Nita Prose,Hardcover Fiction,2022-02-06
+1,9780525559474,Viking,THE MIDNIGHT LIBRARY,Matt Haig,Hardcover Fiction,2022-02-06
+6,9781501171345,Simon & Schuster,THE LAST THING HE TOLD ME,Laura Dave,Hardcover Fiction,2022-02-06
+19,9781451674774,Gallery,I'LL SEE YOU AGAIN,Jackie Hance with Janice Kaplan,Combined Print Nonfiction,2022-02-02
+3,9781451695199,Simon & Schuster,PROOF OF HEAVEN,Eben Alexander,Combined Print Nonfiction,2022-02-02
+17,9781476703541,Howard,DUCK COMMANDERS,Willie and Korie Robertson with Mark Schlabach,Combined Print Nonfiction,2022-02-02
+18,9780374533557,"Farrar, Straus & Giroux","THINKING, FAST AND SLOW",Daniel Kahneman,Combined Print Nonfiction,2022-02-02
+14,9781429960274,Forge,A DOG'S PURPOSE,W Bruce Cameron,E-Book Fiction,2022-02-02
+20,9781400064168,Random House,UNBROKEN,Laura Hillenbrand,Combined Print Nonfiction,2022-02-02
+15,9780385538923,Doubleday,THE SLEEPWALKER,Chris Bohjalian,E-Book Fiction,2022-02-02
+5,9780307476074,Vintage,WILD,Cheryl Strayed,Combined Print Nonfiction,2022-02-02
+13,9781250105615,Flatiron,THE DRY,Jane Harper,E-Book Fiction,2022-02-02
+12,9780316407168,"Little, Brown",CROSS THE LINE,James Patterson,E-Book Fiction,2022-02-02
+4,9781594204210,Penguin Press,COOKED,Michael Pollan,Combined Print Nonfiction,2022-02-02
+8,9780310330912,Zondervan,AMERICA THE BEAUTIFUL,Ben C Carson and Candy Carson,Combined Print Nonfiction,2022-02-02
+6,9781250024978,St. Martin's,TRIDENT K9 WARRIORS,Michael Ritland with Gary Brozek,Combined Print Nonfiction,2022-02-02
+16,9780393081572,Norton,GULP,Mary Roach,Combined Print Nonfiction,2022-02-02
+7,9781476711874,Howard,WAKING UP IN HEAVEN,Crystal McVea,Combined Print Nonfiction,2022-02-02
+9,9781568586717,Nation,DIRTY WARS,Jeremy Scahill,Combined Print Nonfiction,2022-02-02
+10,9781476706412,Simon & Schuster,CARRIE AND ME,Carol Burnett,Combined Print Nonfiction,2022-02-02
+11,9780062238863,Harper,AMERICAN SNIPER,Chris Kyle with Scott McEwen and Jim DeFelice,Combined Print Nonfiction,2022-02-02
+12,9781401943417,Hay House,MY NEXT STEP,Dave Liniger with Laura Morton,Combined Print Nonfiction,2022-02-02
+13,9780307352156,Broadway,QUIET,Susan Cain,Combined Print Nonfiction,2022-02-02
+14,9780307957139,Knopf,THE NEW DIGITAL AGE,Eric Schmidt and Jared Cohen,Combined Print Nonfiction,2022-02-02
+15,9781594204807,Penguin Press,WAY OF THE KNIFE,Mark Mazzetti,Combined Print Nonfiction,2022-02-02
+10,9781455586493,Grand Central,NO MAN'S LAND,David Baldacci,E-Book Fiction,2022-02-02
+11,9780399574184,Putnam,BELOW THE BELT,Stuart Woods,E-Book Fiction,2022-02-02
+9,9780698193000,Berkley,THE GUESTS ON SOUTH BATTERY,Karen White,E-Book Fiction,2022-02-02
+6,9780062977403,Ecco,SOUTH TO AMERICA,Imani Perry,Hardcover Nonfiction,2022-02-02
+8,9780425285350,Delacorte,THE MISTRESS,Danielle Steel,E-Book Fiction,2022-02-02
+1,9780316154697,"Little, Brown",LET'S EXPLORE DIABETES WITH OWLS,David Sedaris,Combined Print Nonfiction,2022-02-02
+1,9780062363619,Morrow/HarperCollins,HIDDEN FIGURES,Margot Lee Shetterly,E-Book Nonfiction,2022-02-02
+1,A00B01MT5HMRV,Lauren Blakely,FULL PACKAGE,Lauren Blakely,E-Book Fiction,2022-02-02
+2,9780440337973,Dial,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,E-Book Fiction,2022-02-02
+3,9780385541206,Doubleday,THE WHISTLER,John Grisham,E-Book Fiction,2022-02-02
+4,9781101984772,Dutton,RING OF FIRE,Brad Taylor,E-Book Fiction,2022-02-02
+5,9780345544964,Ballantine,SMALL GREAT THINGS,Jodi Picoult,E-Book Fiction,2022-02-02
+6,A00B01MF62CN8,Stoker Aces Production,SHELTER FOR ADELINE,Susan Stoker,E-Book Fiction,2022-02-02
+7,9781476738031,Atria,A MAN CALLED OVE,Fredrik Backman,E-Book Fiction,2022-02-02
+2,9780385349949,Knopf,LEAN IN,Sheryl Sandberg with Nell Scovell,Combined Print Nonfiction,2022-02-02
+13,9780345803481,Vintage,FIFTY SHADES OF GREY,E L James,Combined Print Fiction,2022-02-02
+20,9781594488399,Riverhead,THE INTERESTINGS,Meg Wolitzer,Combined Print Fiction,2022-02-02
+2,9780593294185,Random House Audio,GREENLIGHTS,Matthew McConaughey,Audio Nonfiction,2022-02-02
+15,DBKADBL052088,Audible Studios,VERITY,Colleen Hoover,Audio Fiction,2022-02-02
+14,9781250838858,Macmillan Audio,A FLICKER IN THE DARK,Stacy Willingham,Audio Fiction,2022-02-02
+13,9780593558171,Random House Audio,STAR WARS: THE FALLEN STAR,Claudia Gray,Audio Fiction,2022-02-02
+12,9780593508640,Random House Audio,WISH YOU WERE HERE,Jodi Picoult,Audio Fiction,2022-02-02
+11,9781478904717,Hachette Audio,THE LAST WISH,Andrzej Sapkowski,Audio Fiction,2022-02-02
+10,9781508212690,Simon & Schuster Audio,IT ENDS WITH US,Colleen Hoover,Audio Fiction,2022-02-02
+9,9780593340233,Penguin Audio,THE MIDNIGHT LIBRARY,Matt Haig,Audio Fiction,2022-02-02
+8,9781797123196,Simon & Schuster Audio,THE LAST THING HE TOLD ME,Laura Dave,Audio Fiction,2022-02-02
+7,9781508236610,Simon & Schuster Audio,THE SEVEN HUSBANDS OF EVELYN HUGO,Taylor Jenkins Reid,Audio Fiction,2022-02-02
+6,9781593974558,Macmillan Audio,THE EYE OF THE WORLD,Robert Jordan,Audio Fiction,2022-02-02
+5,9780593168493,Random House Audio,THE JUDGE'S LIST,John Grisham,Audio Fiction,2022-02-02
+4,9780593452103,Penguin Audio,THE LINCOLN HIGHWAY,Amor Towles,Audio Fiction,2022-02-02
+3,9780593452684,Random House Audio,THE MAID,Nita Prose,Audio Fiction,2022-02-02
+2,9781250810700,Macmillan Audio,APPLES NEVER FALL,Liane Moriarty,Audio Fiction,2022-02-02
+1,DBKADBL051843,Audible Studios,PROJECT HAIL MARY,Andy Weir,Audio Fiction,2022-02-02
+15,9780374715144,"Farrar, Straus & Giroux",THANK YOU FOR BEING LATE,Thomas L Friedman,E-Book Nonfiction,2022-02-02
+14,9781101886977,Ballantine,TROUBLEMAKER,Leah Remini and Rebecca Paley,E-Book Nonfiction,2022-02-02
+13,9780399588181,Spiegel & Grau,BORN A CRIME,Trevor Noah,E-Book Nonfiction,2022-02-02
+12,9780718081539,W Publishing/Thomas Nelson,THE MAGNOLIA STORY,Chip Gaines and Joanna Gaines with Mark Dagostino,E-Book Nonfiction,2022-02-02
+11,9781101200858,Penguin,ALEXANDER HAMILTON,Ron Chernow,E-Book Nonfiction,2022-02-02
+10,9780698188365,Blue Rider,THE PRINCESS DIARIST,Carrie Fisher,E-Book Nonfiction,2022-02-02
+9,9780393254600,Norton,THE UNDOING PROJECT,Michael Lewis,E-Book Nonfiction,2022-02-02
+8,9780812988413,Random House,WHEN BREATH BECOMES AIR,Paul Kalanithi,E-Book Nonfiction,2022-02-02
+7,9781627790635,Holt,KILLING THE RISING SUN,Bill O'Reilly and Martin Dugard,E-Book Nonfiction,2022-02-02
+6,9780062569066,Morrow/HarperCollins,THREE DAYS IN JANUARY,Bret Baier with Catherine Whitney,E-Book Nonfiction,2022-02-02
+5,9781439153802,Simon & Schuster,WISHFUL DRINKING,Carrie Fisher,E-Book Nonfiction,2022-02-02
+4,9781455540020,Grand Central,THE LOST CITY OF THE MONKEY GOD,Douglas Preston,E-Book Nonfiction,2022-02-02
+3,9780062213679,Morrow,UNSINKABLE,Debbie Reynolds and Dorian Hannaway,E-Book Nonfiction,2022-02-02
+1,9780593146231,Penguin Audio,WILL,Will Smith with Mark Manson,Audio Nonfiction,2022-02-02
+3,9780063209817,HarperAudio,UNTHINKABLE,Jamie Raskin,Audio Nonfiction,2022-02-02
+19,9781455523153,Grand Central,THE FORGOTTEN,David Baldacci,Combined Print Fiction,2022-02-02
+4,9780593412701,Penguin Audio,THE BODY KEEPS THE SCORE,Bessel van der Kolk,Audio Nonfiction,2022-02-02
+18,9780345541338,Dell,CALICO JOE,John Grisham,Combined Print Fiction,2022-02-02
+17,9781250010070,St. Martin's,DON'T GO,Lisa Scottoline,Combined Print Fiction,2022-02-02
+16,9780399159091,Putnam,THE MYSTERY WOMAN,Amanda Quick,Combined Print Fiction,2022-02-02
+15,9781400067688,Random House,THE BURGESS BOYS,Elizabeth Strout,Combined Print Fiction,2022-02-02
+14,9781455526956,Grand Central,THE BLACK BOX,Michael Connelly,Combined Print Fiction,2022-02-02
+1,9780063061149,Harper,RED-HANDED,Peter Schweizer,Hardcover Nonfiction,2022-02-02
+12,9780307346612,Broadway,WORLD WAR Z,Max Brooks,Combined Print Fiction,2022-02-02
+11,9780553573404,Bantam,A GAME OF THRONES,George RR Martin,Combined Print Fiction,2022-02-02
+10,9780446547635,Grand Central,THE BEST OF ME,Nicholas Sparks,Combined Print Fiction,2022-02-02
+9,9780307588364,Crown,GONE GIRL,Gillian Flynn,Combined Print Fiction,2022-02-02
+8,9781451668940,Simon & Schuster,DADDY'S GONE A HUNTING,Mary Higgins Clark,Combined Print Fiction,2022-02-02
+7,9780812993844,Dial,WEDDING NIGHT,Sophie Kinsella,Combined Print Fiction,2022-02-02
+6,9780061928178,Harper Perennial,BEAUTIFUL RUINS,Jess Walter,Combined Print Fiction,2022-02-02
+5,9780316176484,Reagan Arthur Books,LIFE AFTER LIFE,Kate Atkinson,Combined Print Fiction,2022-02-02
+4,9780385535304,Doubleday,PARIS,Edward Rutherfurd,Combined Print Fiction,2022-02-02
+3,9780312577216,St. Martin's,FLY AWAY,Kristin Hannah,Combined Print Fiction,2022-02-02
+2,9780399159893,Putnam,WHISKEY BEACH,Nora Roberts,Combined Print Fiction,2022-02-02
+1,9781455521210,Grand Central,THE HIT,David Baldacci,Combined Print Fiction,2022-02-02
+15,9780593156070,Random House Audio,UNTAMED,Glennon Doyle,Audio Nonfiction,2022-02-02
+14,9780593394762,Penguin Audio,THINK AGAIN,Adam Grant,Audio Nonfiction,2022-02-02
+13,9781427264305,Macmillan Audio,EXTREME OWNERSHIP,Jocko Willink and Leif Babin,Audio Nonfiction,2022-02-02
+12,9780593153895,Random House Audio,CRYING IN H MART,Michelle Zauner,Audio Nonfiction,2022-02-02
+11,9781101526200,Penguin Audio,IF YOU ASK ME,Betty White,Audio Nonfiction,2022-02-02
+10,9780063061170,HarperAudio,RED-HANDED,Peter Schweizer,Audio Nonfiction,2022-02-02
+9,9780358628965,HarperAudio,ENOUGH ALREADY,Valerie Bertinelli,Audio Nonfiction,2022-02-02
+8,9781250260635,Macmillan Audio,WHAT HAPPENED TO YOU?,Bruce D. Perry and Oprah Winfrey,Audio Nonfiction,2022-02-02
+7,DBKACX0286289,Skyhorse,THE REAL ANTHONY FAUCI,Robert F. Kennedy Jr,Audio Nonfiction,2022-02-02
+6,9780593452288,Random House Audio,THE 1619 PROJECT,"edited  Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",Audio Nonfiction,2022-02-02
+5,9780063076129,HarperAudio,THE STORYTELLER,Dave Grohl,Audio Nonfiction,2022-02-02
+2,9781982159313,Simon & Schuster,HOW TO BE PERFECT,Michael Schur,Hardcover Nonfiction,2022-02-02
+2,9780062300560,HarperCollins,HILLBILLY ELEGY,J.D. Vance,E-Book Nonfiction,2022-02-02
+7,9780374212230,MCD,DEVIL HOUSE,John Darnielle,Hardcover Fiction,2022-02-02
+8,9780593496206,Ballantine,VIOLETA,Isabel Allende,Hardcover Fiction,2022-02-02
+9,9780593184011,Dutton,THE MAGNOLIA PALACE,Fiona Davis,Hardcover Fiction,2022-02-02
+9,9781250803825,Minotaur,A FLICKER IN THE DARK,Stacy Willingham,Hardcover Fiction,2022-01-30
+11,9781984821584,Delacorte,INVISIBLE,Danielle Steel,Hardcover Fiction,2022-01-30
+15,9781250786173,Flatiron,OLGA DIES DREAMING,Xochitl Gonzalez,Hardcover Fiction,2022-01-30
+14,9781501135972,Threshold Editions,AMERICAN MARXISM,Mark R. Levin,Hardcover Nonfiction,2022-01-30
+9,9781368042000,Hyperion Avenue,A LITTLE CLOSER TO HOME,Ginger Zee,Hardcover Nonfiction,2022-01-30
+15,9781250223180,Flatiron,WHAT HAPPENED TO YOU?,Bruce D. Perry and Oprah Winfrey,Hardcover Nonfiction,2022-01-30
+8,9781627791502,Holt,CHASING HISTORY,Carl Bernstein,Hardcover Nonfiction,2022-01-30
+6,9780593137789,Crown,HOW CIVIL WARS START,Barbara F. Walter,Hardcover Nonfiction,2022-01-30
+13,9780593355398,Del Rey,STAR WARS: THE FALLEN STAR,Claudia Gray,Hardcover Fiction,2022-01-23
+9,9781982182915,Simon & Schuster,PERIL,Bob Woodward and Robert Costa,Hardcover Nonfiction,2022-01-23
+10,9781631492563,Liveright,THE LYRICS: 1956 TO THE PRESENT,Paul McCartney,Hardcover Nonfiction,2022-01-23
+14,9780374157357,"Farrar, Straus & Giroux",THE DAWN OF EVERYTHING,David Graeber and David Wengrow,Hardcover Nonfiction,2022-01-23
+15,9780593159118,Ballantine,ALL ABOUT ME!,Mel Brooks,Hardcover Nonfiction,2022-01-23
+15,9781982156121,Simon & Schuster,THE SCHOOL FOR GOOD MOTHERS,Jessamine Chan,Hardcover Fiction,2022-01-23
+11,9781250274250,St. Martin's,RECKLESS GIRLS,Rachel Hawkins,Hardcover Fiction,2022-01-23
+10,9781250835994,Tor/Forge,THE INVISIBLE LIFE OF ADDIE LARUE,V.E. Schwab,Hardcover Fiction,2022-01-16
+11,9781250835826,Tor,UNDER THE WHISPERING DOOR,TJ Klune,Hardcover Fiction,2022-01-16
+13,9780374602604,"Farrar, Straus & Giroux","BEAUTIFUL WORLD, WHERE ARE YOU",Sally Rooney,Hardcover Fiction,2022-01-16
+14,9780735211230,Riverhead,A SLOW FIRE BURNING,Paula Hawkins,Hardcover Fiction,2022-01-16
+15,9780316485647,"Little, Brown",THE DARK HOURS,Michael Connelly,Hardcover Fiction,2022-01-16
+11,9780593236314,Crown,RENEGADES,Barack Obama and Bruce Springsteen,Hardcover Nonfiction,2022-01-16
+13,9780525540571,Sentinel,THE PRESIDENT AND THE FREEDOM FIGHTER,Brian Kilmeade,Hardcover Nonfiction,2022-01-16
+14,9780062964618,Harper,VANDERBILT,Anderson Cooper and Katherine Howe,Hardcover Nonfiction,2022-01-16
+15,9780762499502,Black Dog & Leventhal,"BEST WISHES, WARMEST REGARDS",Daniel Levy and Eugene Levy,Hardcover Nonfiction,2022-01-16
+13,9781982173678,"Simon & Schuster, St. Martin's",STATE OF TERROR,Hillary Rodham Clinton and Louise Penny,Hardcover Fiction,2022-01-09
+15,9780385545136,Doubleday,HARLEM SHUFFLE,Colson Whitehead,Hardcover Fiction,2022-01-09
+14,9781538719725,Grand Central,MERCY,David Baldacci,Hardcover Fiction,2022-01-09
+10,9781982173616,Scribner,BILLY SUMMERS,Stephen King,Hardcover Fiction,2022-01-09
+11,9780316499149,"Little, Brown",FEAR NO EVIL,James Patterson,Hardcover Fiction,2022-01-09
+8,9780063046641,Broadside,ALL AMERICAN CHRISTMAS,Rachel Campos-Duffy and Sean Duffy,Hardcover Nonfiction,2022-01-09
+10,9781734537727,Callaway,THE BEATLES: GET BACK,the Beatles,Hardcover Nonfiction,2022-01-09
+15,9781250784094,Celadon,THE BOOK OF HOPE,Jane Goodall and Douglas Abrams with Gail Hudson,Hardcover Nonfiction,2022-01-02
+10,9780063092785,Harper,THESE PRECIOUS DAYS,Ann Patchett,Hardcover Nonfiction,2022-01-02
+8,9780935112962,Callaway,THE BEATLES: GET BACK,the Beatles,Hardcover Nonfiction,2022-01-02
+14,9780593135204,Ballantine,PROJECT HAIL MARY,Andy Weir,Hardcover Fiction,2022-01-02
+2,9781980035961,Recorded Books,LEVIATHAN FALLS,James S.A. Corey,Audio Fiction,2022-01-01
+8,9781427201447,Macmillan Audio,DUNE,Frank Herbert,Audio Fiction,2022-01-01
+15,9780063112261,HarperAudio,AUTOPSY,Patricia Cornwell,Audio Fiction,2022-01-01
+5,9780593290743,Random House Audio,ALL ABOUT ME!,Mel Brooks,Audio Nonfiction,2022-01-01
+15,9781603932158,Audible Studios,BORN A CRIME,Trevor Noah,Audio Nonfiction,2022-01-01
+6,9781980060338,Recorded Books,GO TELL THE BEES THAT I AM GONE,Diana Gabaldon,Audio Fiction,2022-01-01
+9,9780062796233,HarperAudio,SAPIENS,Yuval Noah Harari,Audio Nonfiction,2022-01-01
+10,9781039406803,Podium Audio,FALLOUT,Craig Alanson,Audio Fiction,2022-01-01
+12,9780593162392,Random House Audio,EMPIRE OF PAIN,Patrick Radden Keefe,Audio Nonfiction,2022-01-01
+10,9781250818669,Macmillan Audio,THE DAWN OF EVERYTHING,David Graeber and David Wengrow,Audio Nonfiction,2022-01-01
+12,9780063112193,Morrow,AUTOPSY,Patricia Cornwell,Hardcover Fiction,2021-12-26
+14,9780063082199,Custom House,WELCOME TO DUNDER MIFFLIN,Brian Baumgartner and Ben Silverman,Hardcover Nonfiction,2021-12-26
+6,9781637582350,Post Hill,FOR SUCH A TIME AS THIS,Kayleigh McEnany,Hardcover Nonfiction,2021-12-26
+7,9781984859501,Ten Speed,THERE AND BACK,Jimmy Chin,Hardcover Nonfiction,2021-12-26
+14,9780593186329,Dutton,BETRAYAL,Jonathan Karl,Hardcover Nonfiction,2021-12-19
+14,9781250272706,St. Martin's,THE BECOMING,Nora Roberts,Hardcover Fiction,2021-12-19
+9,9780316332910,Orbit,LEVIATHAN FALLS,James S.A. Corey,Hardcover Fiction,2021-12-19
+8,9781984821553,Delacorte,FLYING ANGELS,Danielle Steel,Hardcover Fiction,2021-12-12
+7,9781982177423,Gallery,THE CHRISTMAS PROMISE,Richard Paul Evans,Hardcover Fiction,2021-12-12
+13,9780063098206,Harper,GOD BLESS THIS MESS,Hannah Brown with Mark Dagostino,Hardcover Nonfiction,2021-12-12
+8,9781982154875,Atria,GAME ON,Janet Evanovich,Hardcover Fiction,2021-12-05
+7,9781984818508,Delacorte,BETTER OFF DEAD,Lee Child and Andrew Child,Hardcover Fiction,2021-12-05
+9,9780593419649,Putnam,CLIVE CUSSLER'S THE DEVIL'S SEA,Dirk Cussler,Hardcover Fiction,2021-12-05
+11,9780593300015,Viking,NEVER,Ken Follett,Hardcover Fiction,2021-12-05
+13,9780593188163,Putnam,TOM CLANCY: CHAIN OF COMMAND,Marc Cameron,Hardcover Fiction,2021-12-05
+15,9780593241318,Random House,IMMUNE,Philipp Dettmer,Hardcover Nonfiction,2021-12-05
+14,9780316535861,"Little, Brown",GOING THERE,Katie Couric,Hardcover Nonfiction,2021-12-05
+11,9780593452745,Random House Audio,BETTER OFF DEAD,Lee Child and Andrew Child,Audio Fiction,2021-12-01
+15,DBKADBL053924,Audible Studios,REAPER,Will Wight,Audio Fiction,2021-12-01
+14,9780593460610,Random House Audio,THRAWN ASCENDANCY: LESSER EVIL,Timothy Zahn,Audio Fiction,2021-12-01
+12,9780593458822,Penguin Audio,NEVER,Ken Follett,Audio Fiction,2021-12-01
+10,9781250810656,Macmillan Audio,THE BECOMING,Nora Roberts,Audio Fiction,2021-12-01
+8,9781797128450,Simon & Schuster Audio,GAME ON,Janet Evanovich,Audio Fiction,2021-12-01
+7,9781549160608,Hachette Audio,MERCY,David Baldacci,Audio Fiction,2021-12-01
+4,9781549107634,Hachette Audio,THE DARK HOURS,Michael Connelly,Audio Fiction,2021-12-01
+6,9780593559086,Penguin Audio,BETRAYAL,Jonathan Karl,Audio Nonfiction,2021-12-01
+5,9781549151200,Hachette Audio,GOING THERE,Katie Couric,Audio Nonfiction,2021-12-01
+14,9780593509906,Penguin Audio,WOKE RACISM,John McWhorter,Audio Nonfiction,2021-12-01
+13,9781797136561,Simon & Schuster Audio,BOTH/AND,Huma Abedin,Audio Nonfiction,2021-12-01
+15,9780759554269,"Little, Brown",E.R. NURSES,James Patterson and Matt Eversmann with Chris Mooney,Hardcover Nonfiction,2021-11-28
+11,9780063039544,Custom House,TO RESCUE THE REPUBLIC,Bret Baier with Catherine Whitney,Hardcover Nonfiction,2021-11-28
+7,9781250817860,Metropolitan,MY BODY,Emily Ratajkowski,Hardcover Nonfiction,2021-11-28
+9,9780062671127,Harper,THE SENTENCE,Louise Erdrich,Hardcover Fiction,2021-11-28
+14,9781250220257,Holt,APPLES NEVER FALL,Liane Moriarty,Hardcover Fiction,2021-11-28
+14,9781501194801,Scribner,BOTH/AND,Huma Abedin,Hardcover Nonfiction,2021-11-21
+12,9780062894472,HarperOne,WHOLEHEARTED FAITH,Rachel Held Evans with Jeff Chu,Hardcover Nonfiction,2021-11-21
+6,9780063090026,Morrow,WOKE UP THIS MORNING,Michael Imperioli and Steve Schirripa with Philip Lerman,Hardcover Nonfiction,2021-11-21
+15,9780063065246,Morrow,THE BOYS,Ron Howard and Clint Howard,Hardcover Nonfiction,2021-11-21
+15,9780812989434,Random House,OH WILLIAM!,Elizabeth Strout,Hardcover Fiction,2021-11-21
+11,9780525541998,Putnam,THE FAMILY,Naomi Krupitsky,Hardcover Fiction,2021-11-21
+10,9781984855121,Random House,OUR COUNTRY FRIENDS,Gary Shteyngart,Hardcover Fiction,2021-11-21
+10,9780593423066,Portfolio,WOKE RACISM,John McWhorter,Hardcover Nonfiction,2021-11-14
+11,9780593231524,Random House,MIDNIGHT IN WASHINGTON,Adam Schiff,Hardcover Nonfiction,2021-11-14
+6,9781250765789,Andy Cohen,NOT ALL DIAMONDS AND ROSÉ,Dave Quinn,Hardcover Nonfiction,2021-11-14
+13,9781984818812,Ballantine,DEAR SANTA,Debbie Macomber,Hardcover Fiction,2021-11-14
+12,9780593490594,Viking,SILVERVIEW,John Le Carré,Hardcover Fiction,2021-11-14
+11,9781982104412,Atria,FORGIVING PARIS,Karen Kingsbury,Hardcover Fiction,2021-11-14
+8,9780306923708,Hachette,THE FIRST 21,Frank Feranna and Nikki Sixx,Hardcover Nonfiction,2021-11-07
+14,9781101984697,Dutton,WHERE THE DEER AND THE ANTELOPE PLAY,Nick Offerman,Hardcover Nonfiction,2021-11-07
+15,9781419751431,Abrams Image,MUSIC IS HISTORY,Questlove with Ben Greenman,Hardcover Nonfiction,2021-11-07
+15,9781984821522,Delacorte,THE BUTLER,Danielle Steel,Hardcover Fiction,2021-11-07
+13,9780374181178,"Farrar, Straus & Giroux",CROSSROADS,Jonathan Franzen,Hardcover Fiction,2021-11-07
+3,9780593508619,Random House Audio,MIDNIGHT IN WASHINGTON,Adam Schiff,Audio Nonfiction,2021-11-01
+4,9781797137971,Simon & Schuster Audio,PERIL,Bob Woodward and Robert Costa,Audio Nonfiction,2021-11-01
+6,9781549108211,Hachette Audio,A CARNIVAL OF SNACKERY,David Sedaris,Audio Nonfiction,2021-11-01
+7,9780062964656,HarperAudio,VANDERBILT,Anderson Cooper and Katherine Howe,Audio Nonfiction,2021-11-01
+9,9780063142961,HarperAudio,I'LL TAKE YOUR QUESTIONS NOW,Stephanie Grisham,Audio Nonfiction,2021-11-01
+12,9781797128535,Simon & Schuster Audio,CLOUD CUCKOO LAND,Anthony Doerr,Audio Fiction,2021-11-01
+5,9781797128511,Simon & Schuster Audio,STATE OF TERROR,Hillary Rodham Clinton and Louise Penny,Audio Fiction,2021-11-01
+7,DORORIG001598,Audible Originals,THE SANDMAN: ACT II,Neil Gaiman and Dirk Maggs,Audio Fiction,2021-11-01
+8,9781478992684,Hachette Audio,THE WISH,Nicholas Sparks,Audio Fiction,2021-11-01
+11,9781488211690,Harlequin Audio,LOCAL WOMAN MISSING,Mary Kubica,Audio Fiction,2021-11-01
+13,9781797122700,Simon & Schuster Audio,BILLY SUMMERS,Stephen King,Audio Fiction,2021-11-01
+13,9781797123479,Simon & Schuster Audio,TASTE,Stanley Tucci,Audio Nonfiction,2021-11-01
+12,9780358578499,HarperAudio,THERE IS NOTHING FOR YOU HERE,Fiona Hill,Audio Nonfiction,2021-11-01
+11,9780063065277,HarperAudio,THE BOYS,Ron Howard and Clint Howard,Audio Nonfiction,2021-11-01
+10,9781631498237,Liveright,IT'S BETTER TO BE FEARED,Seth Wickersham,Hardcover Nonfiction,2021-10-31
+15,9781541647534,Basic,THE DYING CITIZEN,Victor Davis Hanson,Hardcover Nonfiction,2021-10-31
+12,9780358574316,Mariner,THERE IS NOTHING FOR YOU HERE,Fiona Hill,Hardcover Nonfiction,2021-10-31
+14,9781684512591,Regnery,RIGGED,Mollie Hemingway,Hardcover Nonfiction,2021-10-31
+15,9780316276627,"Little, Brown",THE JAILHOUSE LAWYER,James Patterson and Nancy Allen,Hardcover Fiction,2021-10-31
+8,9781982151485,Simon & Schuster,THE BOOK OF MAGIC,Alice Hoffman,Hardcover Fiction,2021-10-31
+1,9780063076099,‎Dey Street,THE STORYTELLER,Dave Grohl,Hardcover Nonfiction,2021-10-31
+11,9780393881141,Norton,BEWILDERMENT,Richard Powers,Hardcover Fiction,2021-10-24
+12,9781250276896,St. Martin's,THREE SISTERS,Heather Morris,Hardcover Fiction,2021-10-24
+4,9780063142930,Harper,I'LL TAKE YOUR QUESTIONS NOW,Stephanie Grisham,Hardcover Nonfiction,2021-10-24
+15,9781982164881,Emily Bestler/Atria,VINCE FLYNN: ENEMY AT THE GATES,Kyle Mills,Hardcover Fiction,2021-10-24
+15,9780306925429,Hachette,UNREQUITED INFATUATIONS,Stevie Van Zandt,Hardcover Nonfiction,2021-10-24
+14,9781982180584,Avid Reader,THE BASEBALL 100,Joe Posnanski,Hardcover Nonfiction,2021-10-24
+12,9780593086889,Portfolio,A HUNTER-GATHERER'S GUIDE TO THE 21ST CENTURY,Heather Heying and Bret Weinstein,Hardcover Nonfiction,2021-10-24
+11,9780062909107,Ecco,BOURDAIN,Laurie Woolever,Hardcover Nonfiction,2021-10-24
+10,9781797209470,Chronicle Prism,A CONFEDERACY OF DUMPTYS,John Lithgow,Hardcover Nonfiction,2021-10-24
+8,9780316558792,"Little, Brown",A CARNIVAL OF SNACKERY,David Sedaris,Hardcover Nonfiction,2021-10-24
+5,9780593128862,Del Rey,THE LAST GRADUATE,Naomi Novik,Hardcover Fiction,2021-10-17
+8,9781984880994,Pamela Dorman,THE MAN WHO DIED TWICE,Richard Osman,Hardcover Fiction,2021-10-17
+10,9781250279316,St. Martin's,THE SANTA SUIT,Mary Kay Andrews,Hardcover Fiction,2021-10-17
+4,9780593230770,Random House,NO CURE FOR BEING HUMAN,Kate Bowler,Hardcover Nonfiction,2021-10-17
+12,9780306874352,Hachette,"YOURS CRUELLY, ELVIRA",Cassandra Peterson,Hardcover Nonfiction,2021-10-17
+13,9780593191798,Portfolio,MY LIFE IN FULL,Indra Nooyi,Hardcover Nonfiction,2021-10-17
+9,9780525561996,Viking,RATIONALITY,Steven Pinker,Hardcover Nonfiction,2021-10-17
+6,9780062979933,Dey Street,YOU GOT ANYTHING STRONGER?,Gabrielle Union with Kevin Carr O’Leary,Hardcover Nonfiction,2021-10-10
+4,9781250217349,Tor,UNDER THE WHISPERING DOOR,TJ Klune,Hardcover Fiction,2021-10-10
+10,9780593297254,Viking,DAUGHTER OF THE MORNING STAR,Craig Johnson,Hardcover Fiction,2021-10-10
+13,9781250272812,St. Martin's,FORGOTTEN IN DEATH,J.D. Robb,Hardcover Fiction,2021-10-10
+5,9780063080010,Harper,UNCONTROLLED SPREAD,Scott Gottlieb,Hardcover Nonfiction,2021-10-10
+10,9781250621733,Flatiron,UNBOUND,Tarana Burke,Hardcover Nonfiction,2021-10-10
+7,9781982176525,Avid Reader,COUNTDOWN BIN LADEN,Chris Wallace with Mitch Weiss,Hardcover Nonfiction,2021-10-10
+14,9781250272003,St. Martin's,HOW TO SAVE A LIFE,Lynette Rice,Hardcover Nonfiction,2021-10-10
+8,9781324001935,Norton,FUZZ,Mary Roach,Hardcover Nonfiction,2021-10-10
+15,9780593329825,Riverhead,THE PAPER PALACE,Miranda Cowley Heller,Hardcover Fiction,2021-10-10
+15,9781501183690,Threshold Editions,THE LONG SLIDE,Tucker Carlson,Hardcover Nonfiction,2021-10-10
+14,9781250145260,Minotaur,THE MADNESS OF CROWDS,Louise Penny,Hardcover Fiction,2021-10-10
+9,9780525658818,Knopf,THE SPECKLED BEAUTY,Rick Bragg,Hardcover Nonfiction,2021-10-10
+15,9780316187244,Orbit,THE WISDOM OF CROWDS,Joe Abercrombie,Hardcover Fiction,2021-10-03
+14,9781524798659,Ballantine,MALIBU RISING,Taylor Jenkins Reid,Hardcover Fiction,2021-10-03
+12,9781594634499,Riverhead,MATRIX,Lauren Groff,Hardcover Fiction,2021-10-03
+8,9781250245281,St. Martin's,EMPIRE OF THE VAMPIRE,Jay Kristoff,Hardcover Fiction,2021-10-03
+14,9780385547215,Doubleday,BEAUTIFUL COUNTRY,Qian Julie Wang,Hardcover Nonfiction,2021-10-03
+7,9781982160593,Gallery,WHERE TOMORROWS AREN'T PROMISED,Carmelo Anthony with D. Watkins,Hardcover Nonfiction,2021-10-03
+8,9780374286675,"Farrar, Straus & Giroux",WILDLAND,Evan Osnos,Hardcover Nonfiction,2021-10-03
+12,9780525562177,Viking,TRAVELS WITH GEORGE,Nathaniel Philbrick,Hardcover Nonfiction,2021-10-03
+15,9781250317247,Macmillan Audio,THE FOUR WINDS,Kristin Hannah,Audio Fiction,2021-10-01
+13,9781478916611,Hachette Audio,THE WISDOM OF CROWDS,Joe Abercrombie,Audio Fiction,2021-10-01
+10,9781797128375,Penguin Audio,THE NIGHT SHE DISAPPEARED,Lisa Jewell,Audio Fiction,2021-10-01
+9,9780593453162,Penguin Audio,A SLOW FIRE BURNING,Paula Hawkins,Audio Fiction,2021-10-01
+8,9781250810625,Macmillan Audio,FORGOTTEN IN DEATH,J.D. Robb,Audio Fiction,2021-10-01
+7,9781797128269,Simon & Schuster Audio,VINCE FLYNN: ENEMY AT THE GATES,Kyle Mills,Audio Fiction,2021-10-01
+14,9780525633723,Random House Audio,A PROMISED LAND,Barack Obama,Audio Nonfiction,2021-10-01
+12,9780593409220,Penguin Audio,DOPAMINE NATION,Anna Lembke,Audio Nonfiction,2021-10-01
+11,9781797131528,Simon & Schuster Audio,THE AFGHANISTAN PAPERS,Craig Whitlock,Audio Nonfiction,2021-10-01
+3,9780593457658,Penguin Audio,A HUNTER-GATHERER'S GUIDE TO THE 21ST CENTURY,Heather Heying and Bret Weinstein,Audio Nonfiction,2021-10-01
+6,9780062979964,HarperAudio,YOU GOT ANYTHING STRONGER?,Gabrielle Union with Kevin Carr O’Leary,Audio Nonfiction,2021-10-01
+7,9781524703196,Random House Audio,BASED ON A TRUE STORY,Norm Macdonald,Audio Nonfiction,2021-10-01
+10,9781797122083,Simon & Schuster Audio,AMERICAN MARXISM,Mark R. Levin,Audio Nonfiction,2021-10-01
+11,9780316499873,"Little, Brown",THE NOISE,James Patterson and J.D. Barker,Hardcover Fiction,2021-09-26
+10,9781982137366,Atria,THE NIGHT SHE DISAPPEARED,Lisa Jewell,Hardcover Fiction,2021-09-26
+15,9781250204479,Minotaur,THE HERON'S CRY,Ann Cleeves,Hardcover Fiction,2021-09-26
+6,9781250266101,Flatiron,ROCK PAPER SCISSORS,Alice Feeney,Hardcover Fiction,2021-09-26
+14,9781250802569,Flatiron,L.A. WEATHER,María Amparo Escandón,Hardcover Fiction,2021-09-26
+4,9781982158248,Simon & Schuster,THIS BRIGHT FUTURE,Bob Hall,Hardcover Nonfiction,2021-09-26
+14,9780593230251,Random House,CASTE,Isabel Wilkerson,Hardcover Nonfiction,2021-09-26
+13,9780593330258,Portfolio,ORDINARY HEROES,Joseph Pfeifer,Hardcover Nonfiction,2021-09-26
+6,9781982159009,Simon & Schuster,THE AFGHANISTAN PAPERS,Craig Whitlock,Hardcover Nonfiction,2021-09-26
+9,9781538704196,Grand Central,FOREVER YOUNG,Hayley Mills,Hardcover Nonfiction,2021-09-26
+8,9781982165734,Simon & Schuster,THE AMERICAN EXPERIMENT,David M. Rubenstein,Hardcover Nonfiction,2021-09-26
+10,9781250278456,St. Martin's,THE RECKONING,Mary L. Trump,Hardcover Nonfiction,2021-09-19
+11,9780399590504,Random House,EDUCATED,Tara Westover,Hardcover Nonfiction,2021-09-19
+13,9781101947333,Knopf,ALL IN,Billie Jean King with Johnette Howard and Maryanne Vollers,Hardcover Nonfiction,2021-09-19
+14,9780393881554,Norton,THE PREMONITION,Michael Lewis,Hardcover Nonfiction,2021-09-19
+15,9781546090786,Center Street,"WOKE, INC.",Vivek Ramaswamy,Hardcover Nonfiction,2021-09-19
+12,9781524746728,Dutton,DOPAMINE NATION,Anna Lembke,Hardcover Nonfiction,2021-09-19
+9,9781984821492,Delacorte,COMPLICATIONS,Danielle Steel,Hardcover Fiction,2021-09-19
+14,9780765387561,Tor/Forge,THE INVISIBLE LIFE OF ADDIE LARUE,V.E. Schwab,Hardcover Fiction,2021-09-19
+12,9780062942937,Harper,THE LOVE SONGS OF W.E.B. DU BOIS,Honorée Fanonne Jeffers,Hardcover Fiction,2021-09-19
+11,9780316540711,"Little, Brown",THE PRESIDENT'S DAUGHTER,Bill Clinton and James Patterson,Hardcover Fiction,2021-09-19
+10,9781984820464,Ballantine,WE WERE NEVER HERE,Andrea Bartz,Hardcover Fiction,2021-09-19
+15,9781982128685,Atria,LIGHTNING STRIKE,William Kent Krueger,Hardcover Fiction,2021-09-19
+8,9781538719268,Twelve,THE MASTER,Christopher Clarey,Hardcover Nonfiction,2021-09-12
+3,9781541730335,PublicAffairs,HERO OF TWO WORLDS,Mike Duncan,Hardcover Nonfiction,2021-09-12
+10,9781538736708,Grand Central,BLOODLESS,Douglas Preston and Lincoln Child,Hardcover Fiction,2021-09-12
+14,9780593298947,Penguin Press,I ALONE CAN FIX IT,Carol Leonnig and Philip Rucker,Hardcover Nonfiction,2021-09-12
+12,9780063001824,Broadside,THE AUTHORITARIAN MOMENT,Ben Shapiro,Hardcover Nonfiction,2021-09-05
+14,9780063018952,Dey Street,BREATHE,Rickson Gracie with Peter Maguire,Hardcover Nonfiction,2021-09-05
+15,9781250178602,St. Martin's,THE FOUR WINDS,Kristin Hannah,Hardcover Fiction,2021-09-05
+14,9780316420082,"Little, Brown",GOLDEN GIRL,Elin Hilderbrand,Hardcover Fiction,2021-09-05
+12,9780062834867,Harper,THE CELLIST,Daniel Silva,Hardcover Fiction,2021-09-05
+10,9781982175160,Gallery,CHASING THE BOOGEYMAN,Richard Chizmar,Hardcover Fiction,2021-09-05
+15,9780063049086,Broadside,HOW I SAVED THE WORLD,Jesse Watters,Hardcover Nonfiction,2021-09-05
+6,9780593505069,Penguin Audio,I ALONE CAN FIX IT,Carol Leonnig and Philip Rucker,Audio Nonfiction,2021-09-01
+5,9780063018983,HarperAudio,BREATHE,Rickson Gracie with Peter Maguire,Audio Nonfiction,2021-09-01
+7,9781508296539,Simon & Schuster Audio,THE LONG SLIDE,Tucker Carlson,Audio Nonfiction,2021-09-01
+10,9780593400241,Random House Audio,MEATEATER'S CAMPFIRE STORIES: CLOSE CALLS,Steven Rinella,Audio Nonfiction,2021-09-01
+13,9781250824318,Macmillan Audio,THE RECKONING,Mary L. Trump,Audio Nonfiction,2021-09-01
+12,9780063001855,HarperAudio,THE AUTHORITARIAN MOMENT,Ben Shapiro,Audio Nonfiction,2021-09-01
+13,9780525640370,Penguin Audio,WHERE THE CRAWDADS SING,Delia Owens,Audio Fiction,2021-09-01
+11,DBKADBL032949,Audible Studios,NOLYN,Michael J. Sullivan,Audio Fiction,2021-09-01
+10,9781549133398,Hachette Audio,BLOODLESS,Douglas Preston and Lincoln Child,Audio Fiction,2021-09-01
+8,9781984845344,Random House Audio,MALIBU RISING,Taylor Jenkins Reid,Audio Fiction,2021-09-01
+12,9780593412503,Penguin Audio,THE PAPER PALACE,Miranda Cowley Heller,Audio Fiction,2021-09-01
+6,9781250810687,Macmillan Audio,THE MADNESS OF CROWDS,Louise Penny,Audio Fiction,2021-09-01
+5,9780593348406,Random House Audio,WE WERE NEVER HERE,Andrea Bartz,Audio Fiction,2021-09-01
+3,9780306924125,Hachette,GIANNIS,Mirin Fader,Hardcover Nonfiction,2021-08-29
+5,9780063079427,Harper,"HERE, RIGHT MATTERS",Alexander Vindman,Hardcover Nonfiction,2021-08-29
+13,9780316296618,"Little, Brown",THE BOMBER MAFIA,Malcolm Gladwell,Hardcover Nonfiction,2021-08-29
+15,9781250273659,St. Martin's,KILLING THE MOB,Bill O'Reilly and Martin Dugard,Hardcover Nonfiction,2021-08-29
+13,9781982104122,Emily Bestler/Atria,BLACK ICE,Brad Thor,Hardcover Fiction,2021-08-29
+11,9781984880550,Pamela Dorman,NOT A HAPPY FAMILY,Shari Lapena,Hardcover Fiction,2021-08-29
+10,9781538751961,Grand Central,BLIND TIGER,Sandra Brown,Hardcover Fiction,2021-08-29
+9,9780063004085,Morrow,VORTEX,Catherine Coulter,Hardcover Fiction,2021-08-29
+14,9780316561693,"Little, Brown",ALL THE FREQUENT TROUBLES OF OUR DAYS,Rebecca Donner,Hardcover Nonfiction,2021-08-22
+15,9780593296905,Penguin Press,THIS IS YOUR MIND ON PLANTS,Michael Pollan,Hardcover Nonfiction,2021-08-22
+14,9780063049901,Ecco,AFTERPARTIES,Anthony Veasna So,Hardcover Fiction,2021-08-22
+13,9780593084908,Putnam,THE TURNOUT,Megan Abbott,Hardcover Fiction,2021-08-22
+11,9781250796226,Celadon,WE ARE THE BRENNANS,Tracey Lange,Hardcover Fiction,2021-08-22
+13,9780374200091,"Farrar, Straus & Giroux",PUTTING IT TOGETHER,James Lapine,Hardcover Nonfiction,2021-08-22
+15,9781250244147,Flatiron,ONCE THERE WERE WOLVES,Charlotte McConaghy,Hardcover Fiction,2021-08-22
+10,9781250304452,Celadon,THE MAIDENS,Alex Michaelides,Hardcover Fiction,2021-08-15
+13,9780385547680,Doubleday,SOOLEY,John Grisham,Hardcover Fiction,2021-08-15
+5,9781538734803,Twelve,"FRANKLY, WE DID WIN THIS ELECTION",Michael C. Bender,Hardcover Nonfiction,2021-08-15
+6,9781250830012,Holt,LANDSLIDE,Michael Wolff,Hardcover Nonfiction,2021-08-15
+15,9780593101537,Berkley,THE PERSONAL LIBRARIAN,Marie Benedict and Victoria Christopher Murray,Hardcover Fiction,2021-08-15
+12,9781984818782,Ballantine,IT'S BETTER THIS WAY,Debbie Macomber,Hardcover Fiction,2021-08-08
+11,9781984821430,Delacorte,NINE LIVES,Danielle Steel,Hardcover Fiction,2021-08-08
+9,9781982177881,Avid Reader,FALLING,T.J. Newman,Hardcover Fiction,2021-08-08
+8,9780062858092,Morrow,FALSE WITNESS,Karin Slaughter,Hardcover Fiction,2021-08-08
+15,9780525555216,Dutton,THE ANTHROPOCENE REVIEWED,John Green,Hardcover Nonfiction,2021-08-08
+5,9781250832801,Macmillan Audio,LANDSLIDE,Michael Wolff,Audio Nonfiction,2021-08-01
+6,9780593413104,Penguin Audio,THIS IS YOUR MIND ON PLANTS,Michael Pollan,Audio Nonfiction,2021-08-01
+11,9780063049116,HarperAudio,HOW I SAVED THE WORLD,Jesse Watters,Audio Nonfiction,2021-08-01
+15,9781735803227,Pushkin Industries,THE BOMBER MAFIA,Malcolm Gladwell,Audio Nonfiction,2021-08-01
+8,9781549102356,Hachette Audio,"FRANKLY, WE DID WIN THIS ELECTION",Michael C. Bender,Audio Nonfiction,2021-08-01
+6,9781797122205,Simon & Schuster Audio,BLACK ICE,Brad Thor,Audio Fiction,2021-08-01
+7,9780062835031,HarperAudio,THE CELLIST,Daniel Silva,Audio Fiction,2021-08-01
+8,9781504780292,Blackstone,FALSE WITNESS,Karin Slaughter,Audio Fiction,2021-08-01
+12,9781549135194,Hachette Audio,THE PRESIDENT'S DAUGHTER,Bill Clinton and James Patterson,Audio Fiction,2021-08-01
+13,9780593346808,Penguin Audio,PEOPLE WE MEET ON VACATION,Emily Henry,Audio Fiction,2021-08-01
+14,9781797128221,Simon & Schuster Audio,FALLING,T.J. Newman,Audio Fiction,2021-08-01
+6,9781984890160,Random House Audio,YEARBOOK,Seth Rogen,Audio Nonfiction,2021-07-01
+15,9780593408674,Random House Audio,TOM CLANCY: TARGET ACQUIRED,Don Bentley,Audio Fiction,2021-07-01
+10,9780593339800,Penguin Audio,CASTE,Isabel Wilkerson,Audio Nonfiction,2021-07-01
+12,9780593411988,Random House Audio,AFTER THE FALL,Ben Rhodes,Audio Nonfiction,2021-07-01
+14,DBKADBL052513,Audible Studios,THE PREMONITION,Michael Lewis,Audio Nonfiction,2021-07-01
+9,9781549123412,Hachette Audio,HOW THE WORD IS PASSED,Clint Smith,Audio Nonfiction,2021-07-01
+14,9781250262356,Macmillan Audio,THE MAIDENS,Alex Michaelides,Audio Fiction,2021-07-01
+13,9781250802378,Macmillan Audio,LEGACY,Nora Roberts,Audio Fiction,2021-07-01
+9,9780593453568,Random House Audio,FREED,E.L. James,Audio Fiction,2021-07-01
+7,9781549117374,Hachette Audio,GOLDEN GIRL,Elin Hilderbrand,Audio Fiction,2021-07-01
+5,9781774248058,Podium Audio,BREAKAWAY,Craig Alanson,Audio Fiction,2021-07-01
+14,9781984832061,Random House Audio,NOISE,"Daniel Kahneman, Olivier Sibony and Cass R. Sunstein",Audio Nonfiction,2021-06-01
+13,9780593408537,Penguin Audio,THE ANTHROPOCENE REVIEWED,John Green,Audio Nonfiction,2021-06-01
+7,9780593412107,Random House Audio,ZERO FAIL,Carol Leonnig,Audio Nonfiction,2021-06-01
+5,9781250781307,Macmillan Audio,KILLING THE MOB,Bill O'Reilly and Martin Dugard,Audio Nonfiction,2021-06-01
+5,9780593459294,Random House Audio,SOOLEY,John Grisham,Audio Fiction,2021-06-01
+6,9781549135453,Hachette Audio,21ST BIRTHDAY,James Patterson and Maxine Paetro,Audio Fiction,2021-06-01
+7,9780593413708,Random House Audio,WHILE JUSTICE SLEEPS,Stacey Abrams,Audio Fiction,2021-06-01
+8,9781797117157,Simon & Schuster Audio,THE DEVIL'S HAND,Jack Carr,Audio Fiction,2021-06-01
+11,9781549160585,Hachette Audio,A GAMBLING MAN,David Baldacci,Audio Fiction,2021-06-01
+12,9780062943491,HarperAudio,THE ROSE CODE,Kate Quinn,Audio Fiction,2021-06-01
+14,9781250777959,Macmillan Audio,THE INVISIBLE LIFE OF ADDIE LARUE,V.E. Schwab,Audio Fiction,2021-06-01
+15,9781797122106,Simon & Schuster Audio,THAT SUMMER,Jennifer Weiner,Audio Fiction,2021-06-01
+14,9781508267744,Simon & Schuster Audio,TRUE BELIEVER,Jack Carr,Audio Fiction,2021-05-01
+13,DBKADBL053923,Audible Studios,BLOODLINE,Will Wight,Audio Fiction,2021-05-01
+12,9781543661262,Brilliance Audio,WIN,Harlan Coben,Audio Fiction,2021-05-01
+11,9781797121758,Simon & Schuster Audio,LATER,Stephen King,Audio Fiction,2021-05-01
+9,9780593396889,Random House Audio,THRAWN ASCENDANCY: GREATER GOOD,Timothy Zahn,Audio Fiction,2021-05-01
+4,9780593348208,Penguin Audio,OCEAN PREY,John Sandford,Audio Fiction,2021-05-01
+3,9781250752291,Macmillan Audio,ON THE HOUSE,John Boehner,Audio Nonfiction,2021-05-01
+15,9781797113005,Simon & Schuster Audio,BEAUTIFUL THINGS,Hunter Biden,Audio Nonfiction,2021-05-01
+13,9781797117058,Simon & Schuster Audio,THE CODE BREAKER,Walter Isaacson,Audio Nonfiction,2021-05-01
+7,9781250790934,Macmillan Audio,BROKEN,Jenny Lawson,Audio Nonfiction,2021-05-01
+6,9780593340103,Random House Audio,BROKEN HORSES,Brandi Carlile,Audio Nonfiction,2021-05-01
+6,9781508251200,Simon & Schuster Audio,THE TERMINAL LIST,Jack Carr,Audio Fiction,2021-05-01
+13,9780593396964,Random House Audio,READY PLAYER TWO,Ernest Cline,Audio Fiction,2021-04-01
+12,9780062985057,HarperAudio,THE GUEST LIST,Lucy Foley,Audio Fiction,2021-04-01
+10,9780593347300,Penguin Audio,WILD SIGN,Patricia Briggs,Audio Fiction,2021-04-01
+15,9781797105833,Simon & Schuster Audio,ANXIOUS PEOPLE,Fredrik Backman,Audio Fiction,2021-04-01
+7,9780593215753,Random House Audio,HOW TO AVOID A CLIMATE DISASTER,Bill Gates,Audio Nonfiction,2021-04-01
+9,9780525633686,Random House Audio,BECOMING,Michelle Obama,Audio Nonfiction,2021-04-01
+11,9781549150340,Hachette Audio,TALKING TO STRANGERS,Malcolm Gladwell,Audio Nonfiction,2021-04-01
+13,9780062796233,Harper Audio,SAPIENS,Yuval Noah Harari,Audio Nonfiction,2021-04-01
+14,9780593207710,Random House Audio,THE SUM OF US,Heather McGhee,Audio Nonfiction,2021-04-01
+15,9780593211519,Penguin Audio,BREATH,James Nestor,Audio Nonfiction,2021-04-01
+9,9780525637141,Penguin Audio,THE VANISHING HALF,Brit Bennett,Audio Fiction,2021-04-01
+4,9781797119205,Simon & Schuster Audio,LIFE AFTER DEATH,Sister Souljah,Audio Fiction,2021-04-01
+8,9781423325055,Brilliance Audio,FIREFLY LANE,Kristin Hannah,Audio Fiction,2021-04-01
+7,9780593349298,Random House Audio,KLARA AND THE SUN,Kazuo Ishiguro,Audio Fiction,2021-04-01
+11,9781501955846,Recorded Books,ROMANCING MISTER BRIDGERTON,Julia Quinn,Audio Fiction,2021-03-01
+6,9780062931351,HarperAudio,JUST AS I AM,Cicely Tyson with Michelle Burford,Audio Nonfiction,2021-03-01
+7,9780593343210,Random House Audio,FOUR HUNDRED SOULS,edited  Ibram X. Kendi and Keisha N. Blain,Audio Nonfiction,2021-03-01
+12,9781501946127,Recorded Books,AN OFFER FROM A GENTLEMAN,Julia Quinn,Audio Fiction,2021-03-01
+14,DBKADBL053199,Audible Studios,RELENTLESS,Mark Greaney,Audio Fiction,2021-03-01
+8,9780593394885,Penguin Audio,THE SANATORIUM,Sarah Pearse,Audio Fiction,2021-03-01
+7,9781501940781,Recorded Books,THE VISCOUNT WHO LOVED ME,Julia Quinn,Audio Fiction,2021-03-01
+5,9781980085720,Recorded Books,A COURT OF SILVER FLAMES,Sarah J. Maas,Audio Fiction,2021-03-01
+3,9781250787828,Macmillan Audio,FAITHLESS IN DEATH,J.D. Robb,Audio Fiction,2021-03-01
+14,9781549131981,Hachette Audio,UNMASKED,Andy Ngo,Audio Nonfiction,2021-03-01
+10,9781501938788,Recorded Books,THE DUKE AND I,Julia Quinn,Audio Fiction,2021-03-01
+2,9780593215500,Random House Audio,STAR WARS: LIGHT OF THE JEDI,Charles Soule,Audio Fiction,2021-02-01
+9,9781469092355,Gildan Media,THE BODY KEEPS THE SCORE,Bessel van der Kolk,Audio Nonfiction,2021-02-01
+12,9781452184715,Chronicle,MYTHOS,Stephen Fry,Audio Nonfiction,2021-02-01
+14,9780525528067,Random House Audio,EDUCATED,Tara Westover,Audio Nonfiction,2021-02-01
+15,9781549105401,Hachette Audio,YOU'LL NEVER BELIEVE WHAT HAPPENED TO LACEY,Amber Ruffin and Lacey Lamar,Audio Nonfiction,2021-02-01
+11,9780307987570,Random House Audio,THE STAND,Stephen King,Audio Fiction,2021-02-01
+15,9780593289358,Penguin Audio,THE PUSH,Ashley Audrain,Audio Fiction,2021-02-01
+14,9781549142284,Hachette Audio,THE SCORPION'S TAIL,Douglas Preston and Lincoln Child,Audio Fiction,2021-02-01
+11,9781549160769,Hachette Audio,THE BEST OF ME,David Sedaris,Audio Nonfiction,2021-01-01
+8,9780062477521,HarperAudio,HILLBILLY ELEGY,J.D. Vance,Audio Nonfiction,2021-01-01
+5,9781774246320,Podium Audio,BRUSHFIRE,Craig Alanson,Audio Fiction,2021-01-01
+7,9780593168554,Random House Audio,A TIME FOR MERCY,John Grisham,Audio Fiction,2021-01-01
+4,9781250759788,Macmillan Audio,RHYTHM OF WAR,Brandon Sanderson,Audio Fiction,2021-01-01
+15,9781455814251,Brilliance,THE WARMTH OF OTHER SUNS,Isabel Wilkerson,Audio Nonfiction,2021-01-01
+14,9781508226291,Simon & Schuster Audio,MY OWN WORDS,Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams,Audio Nonfiction,2021-01-01
+11,9781250770301,Macmillan Audio,THE AWAKENING,Nora Roberts,Audio Fiction,2021-01-01
+10,9781478999324,Hachette Audio,DAYLIGHT,David Baldacci,Audio Fiction,2021-01-01
+15,9780307913159,Random House Audio,READY PLAYER ONE,Ernest Cline,Audio Fiction,2021-01-01
+5,9781797113081,Simon & Schuster Audio,FORTUNE AND GLORY,Janet Evanovich,Audio Fiction,2020-12-01
+3,9781549129001,Hachette Audio,THE LAW OF INNOCENCE,Michael Connelly,Audio Fiction,2020-12-01
+14,9780593287378,Random House Audio,TOM CLANCY: SHADOW OF THE DRAGON,Marc Cameron,Audio Fiction,2020-12-01
+15,9781478992677,Hachette Audio,THE RETURN,Nicholas Sparks,Audio Fiction,2020-12-01
+6,9780593339725,Random House Audio,THE SENTINEL,Lee Child and Andrew Child,Audio Fiction,2020-12-01
+8,9781250771513,Macmillan Audio,NO TIME LIKE THE FUTURE,Michael J Fox,Audio Nonfiction,2020-12-01
+15,9781250800541,Macmillan Audio,UNCOMFORTABLE CONVERSATIONS WITH A BLACK MAN,Emmanuel Acho,Audio Nonfiction,2020-12-01
+5,9781529342017,Hodder & Stoughton,CLANLANDS,Sam Heughan and Graham McTavish,Audio Nonfiction,2020-12-01
+9,9781980072157,Recorded Books,"DOLLY PARTON, SONGTELLER",Dolly Parton with Robert K Oermann,Audio Nonfiction,2020-12-01
+10,9781797102924,Simon & Schuster Audio,BLACKOUT,Candace Owens,Audio Nonfiction,2020-12-01
+11,9781797115894,Simon & Schuster Audio,THE ANSWER IS ...,Alex Trebek,Audio Nonfiction,2020-12-01
+13,9781984885722,Penguin Audio,THE TRUTHS WE HOLD,Kamala Harris,Audio Nonfiction,2020-12-01
+2,9781984838032,Penguin Audio,THE SEARCHER,Tana French,Audio Fiction,2020-11-01
+7,DORORIG000029,Audible Originals,HEAVEN'S RIVER,Dennis E Taylor,Audio Fiction,2020-11-01
+8,9781478947714,Hachette Audio,TROUBLES IN PARADISE,Elin Hilderbrand,Audio Fiction,2020-11-01
+13,9780593343050,Penguin Audio,BATTLE GROUND,Jim Butcher,Audio Fiction,2020-11-01
+14,9780063033504,HarperAudio,LEAVE THE WORLD BEHIND,Rumaan Alam,Audio Fiction,2020-11-01
+15,9781797111292,Simon & Schuster Audio,INVISIBLE GIRL,Lisa Jewell,Audio Fiction,2020-11-01
+11,9780593289648,Penguin Audio,THE EVENING AND THE MORNING,Ken Follett,Audio Fiction,2020-11-01
+10,9781250752987,Macmillan Audio,THE IMMORTALITY KEY,Brian C Muraresku,Audio Nonfiction,2020-11-01
+7,DBKADBL056747,Audible Studios,THE MEANING OF MARIAH CAREY,Mariah Carey with Michaela Angela Davis,Audio Nonfiction,2020-11-01
+5,9781797113043,Simon & Schuster Audio,RAGE,Bob Woodward,Audio Nonfiction,2020-11-01
+4,9781797113067,Simon & Schuster Audio,IS THIS ANYTHING?,Jerry Seinfeld,Audio Nonfiction,2020-11-01
+14,DBKACX0215457,Skyhorse,DISLOYAL,Michael Cohen,Audio Nonfiction,2020-11-01
+7,9781797111278,Simon & Schuster Audio,VINCE FLYNN: TOTAL POWER,Kyle Mills,Audio Fiction,2020-10-01
+11,DORORIG000747,Audible Originals,THE SANDMAN,Neil Gaiman and Dirk Maggs,Audio Fiction,2020-10-01
+8,9781250760616,Macmillan Audio,ALL THE DEVILS ARE HERE,Louise Penny,Audio Fiction,2020-10-01
+9,9781250760487,Macmillan Audio,SHADOWS IN DEATH,J.D. Robb,Audio Fiction,2020-10-01
+4,9781549157738,Hachette Audio,TROUBLED BLOOD,Robert Galbraith,Audio Fiction,2020-10-01
+14,9781797113869,Simon & Schuster Audio,TOO MUCH AND NEVER ENOUGH,Mary L Trump,Audio Nonfiction,2020-10-01
+13,9781984832214,Random House Audio,HOW TO BE AN ANTIRACIST,Ibram X. Kendi,Audio Nonfiction,2020-10-01
+12,9780358343523,HMH Audio,COMPROMISED,Peter Strzok,Audio Nonfiction,2020-10-01
+10,9781250773647,Macmillan Audio,KILLING CRAZY HORSE,Bill O'Reilly and Martin Dugard,Audio Nonfiction,2020-10-01
+6,9781797113838,Simon & Schuster Audio,MELANIA AND ME,Stephanie Winston Wolkoff,Audio Nonfiction,2020-10-01
+3,DBKADBL050610,Audible Studios,THE AUTOBIOGRAPHY OF MALCOLM X,as told to Alex Haley,Audio Nonfiction,2020-10-01
+10,9780593215388,Random House Audio,THRAWN ASCENDANCY: CHAOS RISING,Timothy Zahn,Audio Fiction,2020-10-01
+5,9781774243619,Podium,CRITICAL MASS,Craig Alanson,Audio Fiction,2020-09-01
+6,9781504780223,Blackstone,THE SILENT WIFE,Karin Slaughter,Audio Fiction,2020-09-01
+7,9780593210000,Random House Audio,PRETTY THINGS,Janelle Brown,Audio Fiction,2020-09-01
+8,9781250260604,Macmillan Audio,AMERICAN DIRT,Jeanine Cummins,Audio Fiction,2020-09-01
+9,9781250317537,Macmillan Audio,THE SILENT PATIENT,Alex Michaelides,Audio Fiction,2020-09-01
+10,9780062963703,HarperAudio,THE DUTCH HOUSE,Ann Patchett,Audio Fiction,2020-09-01
+11,9781549184468,Hachette Audio,THE SUMMER HOUSE,James Patterson and Brendan DuBois,Audio Fiction,2020-09-01
+12,9780525530206,Penguin Audio,THE GIVER OF STARS,Jojo Moyes,Audio Fiction,2020-09-01
+13,9781797111643,Simon & Schuster Audio,A PRIVATE CATHEDRAL,James Lee Burke,Audio Fiction,2020-09-01
+15,9781488205842,Harlequin Audio,THE THINGS WE CANNOT SAY,Kelly Rimmer,Audio Fiction,2020-09-01
+14,9781549117367,Hachette Audio,28 SUMMERS,Elin Hilderbrand,Audio Fiction,2020-09-01
+15,9781797106366,Simon & Schuster Audio,HOAX,Brian Stelter,Audio Nonfiction,2020-09-01
+14,9780593172315,Random House Audio,IT WAS ALL A LIE,Stuart Stevens,Audio Nonfiction,2020-09-01
+4,9781797110950,Simon & Schuster Audio,LIVE FREE OR DIE,Sean Hannity,Audio Nonfiction,2020-09-01
+8,9780807032596,Beacon,WHITE FRAGILITY,Robin DiAngelo,Audio Nonfiction,2020-09-01
+10,9780063046139,HarperAudio,FINDING FREEDOM,Omid Scobie and Carolyn Durand,Audio Nonfiction,2020-09-01
+12,9781508229568,Simon & Schuster Audio,EMPIRE OF THE SUMMER MOON,SC Gwynne,Audio Nonfiction,2020-09-01
+6,9780062835024,HarperAudio,THE ORDER,Daniel Silva,Audio Fiction,2020-08-01
+11,9781797104744,Simon & Schuster Audio,NEAR DARK,Brad Thor,Audio Fiction,2020-08-01
+2,9780593290705,Penguin Audio,PEACE TALKS,Jim Butcher,Audio Fiction,2020-08-01
+14,9780593216620,Random House Audio,MEMOIRS AND MISINFORMATION,Jim Carrey and Dana Vachon,Audio Fiction,2020-08-01
+15,9780593213865,Random House Audio,MEXICAN GOTHIC,Silvia Moreno-Garcia,Audio Fiction,2020-08-01
+14,9780593167144,Random House Audio,BEGIN AGAIN,Eddie S Glaude Jr,Audio Nonfiction,2020-08-01
+12,9781464048258,Recorded Books,THE NEW JIM CROW,Michelle Alexander,Audio Nonfiction,2020-08-01
+5,9781797112404,Simon & Schuster Audio,THE ROOM WHERE IT HAPPENED,John Bolton,Audio Nonfiction,2020-08-01
+7,9780786553617,Penguin Audio,ALEXANDER HAMILTON,Ron Chernow,Audio Nonfiction,2020-08-01
+8,9780063001909,HarperAudio,HOW TO DESTROY AMERICA IN THREE EASY STEPS,Ben Shapiro,Audio Nonfiction,2020-08-01
+15,9780593210482,Random House Audio,THE LIES THAT BIND,Emily Giffin,Audio Fiction,2020-07-01
+14,9780593216224,Random House Audio,TOM CLANCY: FIRING POINT,Mike Maden,Audio Fiction,2020-07-01
+15,9781250752512,Macmillan Audio,UNITED STATES OF SOCIALISM,Dinesh D'Souza,Audio Nonfiction,2020-07-01
+14,9780553550610,Random House Audio,JUST MERCY,Bryan Stevenson,Audio Nonfiction,2020-07-01
+12,DBKACX0079037,Novel Audio,STAMPED FROM THE BEGINNING,Ibram X Kendi,Audio Nonfiction,2020-07-01
+10,9780525588511,Random House Audio,I'M STILL HERE,Austin Channing Brown,Audio Nonfiction,2020-07-01
+7,9781538475324,Blackstone Audio,SO YOU WANT TO TALK ABOUT RACE,Ijeoma Oluo,Audio Nonfiction,2020-07-01
+6,9780147520500,Random House Audio,BETWEEN THE WORLD AND ME,Ta-Nehisi Coates,Audio Nonfiction,2020-07-01
+5,9781094135465,Blackstone Audio,ME AND WHITE SUPREMACY,Layla F Saad,Audio Nonfiction,2020-07-01
+3,9781250752390,Macmillan Audio,HIDEAWAY,Nora Roberts,Audio Fiction,2020-07-01
+8,9781549157066,Hachette Audio,FAIR WARNING,Michael Connelly,Audio Fiction,2020-07-01
+11,9781797104805,Simon & Schuster Audio,IF IT BLEEDS,Stephen King,Audio Fiction,2020-07-01
+12,9780525498070,Penguin Audio,LITTLE FIRES EVERYWHERE,Celeste Ng,Audio Fiction,2020-07-01
+4,9781549151187,Hachette Audio,FORTITUDE,Dan Crenshaw,Audio Nonfiction,2020-06-01
+2,9780593168431,Random House Audio,CAMINO WINDS,John Grisham,Audio Fiction,2020-06-01
+8,9781797108407,Simon & Schuster Audio,BIG SUMMER,Jennifer Weiner,Audio Fiction,2020-06-01
+9,9781478999263,Hachette Audio,WALK THE WIRE,David Baldacci,Audio Fiction,2020-06-01
+10,9781549126895,Hachette Audio,THE 20TH VICTIM,James Patterson and Maxine Paetro,Audio Fiction,2020-06-01
+13,9781508299622,Simon & Schuster Audio,SAVAGE SON,Jack Carr,Audio Fiction,2020-06-01
+14,9781488208096,Harlequin Audio,THE HENNA ARTIST,Alka Joshi,Audio Fiction,2020-06-01
+15,9781250758644,Macmillan Audio,THE LINCOLN CONSPIRACY,Brad Meltzer and Josh Mensch,Audio Nonfiction,2020-06-01
+14,9780593208328,Random House Audio,HIDDEN VALLEY ROAD,Robert Kolker,Audio Nonfiction,2020-06-01
+13,9780786581795,Penguin Audio,THE GREAT INFLUENZA,John M. Barry,Audio Nonfiction,2020-06-01
+5,9780593167175,Random House Audio,THE SPLENDID AND THE VILE,Erik Larson,Audio Nonfiction,2020-06-01
+13,9780062905000,HarperAudio,OPEN BOOK,Jessica Simpson with Kevin Carr O’Leary,Audio Nonfiction,2020-05-01
+15,9781797109398,Simon & Schuster Audio,UNORTHODOX,Deborah Feldman,Audio Nonfiction,2020-05-01
+10,9780593164228,Penguin Audio,MASKED PREY,John Sandford,Audio Fiction,2020-05-01
+15,9781488206979,Harlequin Audio,THE WIVES,Tarryn Fisher,Audio Fiction,2020-05-01
+5,9781250230935,Macmillan Audio,MORE MYSELF,Alicia Keys with Michelle Burford,Audio Nonfiction,2020-05-01
+7,9781478998990,Hachette Audio,CHAOS,Tom O'Neill and Dan Piepenbring,Audio Nonfiction,2020-05-01
+7,DORORIG000144,Audible Originals,ESCAPE FROM VIRTUAL ISLAND,John Lutz,Audio Fiction,2020-05-01
+5,9781543661200,Brilliance Audio,THE BOY FROM THE WOODS,Harlan Coben,Audio Fiction,2020-05-01
+13,DBKADBL051238,Audible Studios,MAYBE YOU SHOULD TALK TO SOMEONE,Lori Gottlieb,Audio Nonfiction,2020-04-01
+7,9781478905219,Hachette Audio,DEADLIEST ENEMY,Michael T Osterholm and Mark Olshaker,Audio Nonfiction,2020-04-01
+12,9781600243929,Hachette Audio,OUTLIERS,Malcolm Gladwell,Audio Nonfiction,2020-04-01
+15,9781797103204,Simon & Schuster Audio,IN FIVE YEARS,Rebecca Serle,Audio Fiction,2020-04-01
+14,9781980057673,Recorded Books,THE JETSETTERS,Amanda Eyre Ward,Audio Fiction,2020-04-01
+13,9781980021810,Recorded Books,LONG RANGE,C.J. Box,Audio Fiction,2020-04-01
+15,9781549170843,Hachette Audio,CATCH AND KILL,Ronan Farrow,Audio Nonfiction,2020-04-01
+11,DBKADBL050607,Audible Studios,HOUSE OF EARTH AND BLOOD,Sarah J Maas,Audio Fiction,2020-04-01
+8,9780593165768,Penguin Audio,SMOKE BITTEN,Patricia Briggs,Audio Fiction,2020-04-01
+5,9781441817204,Brilliance Audio,THE EYES OF DARKNESS,Dean Koontz,Audio Fiction,2020-04-01
+13,9781508240013,Simon & Schuster Audio,WHY WE SLEEP,Matthew Walker,Audio Nonfiction,2020-03-01
+6,9780593212325,Penguin Audio,A VERY STABLE GENIUS,Philip Rucker and Carol Leonnig,Audio Nonfiction,2020-03-01
+2,9781250259981,Macmillan Audio,GOLDEN IN DEATH,JD Robb,Audio Fiction,2020-03-01
+11,9780062878847,HarperAudio,DARK TOWERS,David Enrich,Audio Nonfiction,2020-03-01
+15,9781797103167,Simon & Schuster Audio,WHY WE'RE POLARIZED,Ezra Klein,Audio Nonfiction,2020-03-01
+7,9781774242629,Podium,VALKYRIE,Craig Alanson,Audio Fiction,2020-03-01
+15,DBKADBL053198,Audible Studios,ONE MINUTE OUT,Mark Greaney,Audio Fiction,2020-03-01
+13,9780593107065,Penguin Audio,SUCH A FUN AGE,Kiley Reid,Audio Fiction,2020-03-01
+12,9780525639336,Random House Audio,THE GUARDIANS,John Grisham,Audio Fiction,2020-03-01
+14,9781508252221,Simon & Schuster Audio,THE OUTSIDER,Stephen King,Audio Fiction,2020-03-01
+10,9781549142253,Hachette Audio,CROOKED RIVER,Douglas Preston and Lincoln Child,Audio Fiction,2020-03-01
+9,9781250223463,Macmillan Audio,THE SCENT KEEPER,Erica Bauermeister,Audio Fiction,2020-03-01
+8,9780062984067,HarperAudio,PROFILES IN CORRUPTION,Peter Schweizer,Audio Nonfiction,2020-02-01
+9,9781478934912,Hachette Audio,SWORD OF DESTINY,Andrzej Sapkowski,Audio Fiction,2020-02-01
+15,DBKADBL051844,Audible Studios,THE MARTIAN,Andy Weir,Audio Fiction,2020-02-01
+14,9780062663641,HarperAudio,NORSE MYTHOLOGY,Neil Gaiman,Audio Fiction,2020-02-01
+12,9781478904731,Hachette Audio,THE TIME OF CONTEMPT,Andrzej Sapkowski,Audio Fiction,2020-02-01
+4,9781478904724,Hachette Audio,BLOOD OF ELVES,Andrzej Sapkowski,Audio Fiction,2020-02-01
+11,9781508279075,Simon & Schuster Audio,THE INSTITUTE,Stephen King,Audio Fiction,2020-01-01
+10,9781478999300,Hachette Audio,A MINUTE TO MIDNIGHT,David Baldacci,Audio Fiction,2020-01-01
+9,9780525494850,Random House Audio,THE WATER DANCER,Ta-Nehisi Coates,Audio Fiction,2020-01-01
+12,9781799751267,Brilliance,THE RISE OF MAGICKS,Nora Roberts,Audio Fiction,2020-01-01
+13,9781508287698,Simon & Schuster Audio,THE FAMILY UPSTAIRS,Lisa Jewell,Audio Fiction,2020-01-01
+14,9781524774363,Random House Audio,BLUE MOON,Lee Child,Audio Fiction,2020-01-01
+7,9781549118739,Hachette Audio,CONVICTION,Denise Mina,Audio Fiction,2020-01-01
+10,9781549185724,Twelve,A WARNING,Anonymous,Audio Nonfiction,2020-01-01
+13,9781984841292,Random House Audio,DEAR GIRLS,Ali Wong,Audio Nonfiction,2020-01-01
+14,9781984846730,Random House Audio,BLOWOUT,Rachel Maddow,Audio Nonfiction,2020-01-01
+15,9781984841131,Random House Audio,SAY NOTHING,Patrick Radden Keefe,Audio Nonfiction,2020-01-01
+15,9781250622686,Macmillan Audio,PERMANENT RECORD,Edward Snowden,Audio Nonfiction,2019-12-01
+6,9780525501442,Penguin Audio,TWISTED TWENTY-SIX,Janet Evanovich,Audio Fiction,2019-12-01
+9,9781774241288,Podium,ARMAGEDDON,Craig Alanson,Audio Fiction,2019-12-01
+12,9780593150573,Random House Audio,STAR WARS: RESISTANCE REBORN,Rebecca Roanhorse,Audio Fiction,2019-12-01
+10,9780062868077,HarperAudio,THE END IS ALWAYS NEAR,Dan Carlin,Audio Nonfiction,2019-12-01
+12,9780593148198,Penguin Audio,THE MAN WHO SOLVED THE MARKET,Gregory Zuckerman,Audio Nonfiction,2019-12-01
+6,9781549155246,Hachette Audio,TRIGGERED,Donald Trump Jr,Audio Nonfiction,2019-12-01
+11,9780735207882,Random House Audio,THE STARLESS SEA,Erin Morgenstern,Audio Fiction,2019-12-01
+14,9781442362390,Simon & Schuster Audio,DOCTOR SLEEP,Stephen King,Audio Fiction,2019-12-01
+10,9780593107157,Penguin Audio,BLOODY GENIUS,John Sandford,Audio Fiction,2019-11-01
+12,9781603932110,Audible Studios,THE HANDMAID'S TALE,Margaret Atwood,Audio Fiction,2019-11-01
+13,9781478978350,Hachette Audio,THE BURNING WHITE,Brent Weeks,Audio Fiction,2019-11-01
+15,9781549120961,Hachette Audio,THE 19TH CHRISTMAS,James Patterson and Maxine Paetro,Audio Fiction,2019-11-01
+7,9780525590460,Random House Audio,THE TESTAMENTS,Margaret Atwood,Audio Fiction,2019-11-01
+10,9780062906403,HarperAudio,OVER THE TOP,Jonathan Van Ness,Audio Nonfiction,2019-11-01
+4,9780062973429,HarperAudio,INSIDE OUT,Demi Moore,Audio Nonfiction,2019-11-01
+6,9781250231062,Macmillan Audio,ME,Elton John,Audio Nonfiction,2019-11-01
+11,9780147526922,Random House Audio,THE BODY,Bill Bryson,Audio Nonfiction,2019-11-01
+4,9781549120787,Hachette Audio,THE NIGHT FIRE,Michael Connelly,Audio Fiction,2019-11-01
+15,9781466851900,Forge,THE FINAL DAY,William R Forstchen,E-Book Fiction,2017-01-22
+14,9781942833291,Flip City Media,SEPARATION GAMES,C D Reiss,E-Book Fiction,2017-01-22
+13,9780061752728,HarperCollins,STATE OF FEAR,Michael Crichton,E-Book Fiction,2017-01-22
+10,9780547345666,Houghton Mifflin Harcourt,THE HANDMAID'S TALE,Margaret Atwood,E-Book Fiction,2017-01-22
+8,9780997263640,KT Publishing,COMMANDER IN CHIEF,Katy Evans,E-Book Fiction,2017-01-22
+6,9780698156357,Penguin,SILVER BAY,Jojo Moyes,E-Book Fiction,2017-01-22
+5,9781627795951,Henry Holt,THE NORTH WATER,Ian McGuire,E-Book Fiction,2017-01-22
+3,9780345459503,Ballantine,DISTANT SHORES,Kristin Hannah,E-Book Fiction,2017-01-22
+13,9781455587964,Grand Central,THE TELOMERE EFFECT,Elizabeth Blackburn and Elissa Epel,E-Book Nonfiction,2017-01-22
+12,9780743298490,Simon & Schuster,SHOCKAHOLIC,Carrie Fisher,E-Book Nonfiction,2017-01-22
+4,9781420140668,Zebra,CRASH AND BURN,Fern Michaels,E-Book Fiction,2017-01-15
+6,9781101904237,Broadway,DARK MATTER,Blake Crouch,E-Book Fiction,2017-01-15
+12,9781250075741,Flatiron,LOVE WARRIOR,Glennon Doyle Melton,E-Book Nonfiction,2017-01-15
+3,9781250069818,Flatiron,TRULY MADLY GUILTY,Liane Moriarty,E-Book Fiction,2017-01-15
+1,9780316225953,"Little, Brown",THE WRONG SIDE OF GOODBYE,Michael Connelly,E-Book Fiction,2017-01-15
+9,9781466885806,Thomas Dunne,ALL THE UGLY AND WONDERFUL THINGS,Bryn Greenwood,E-Book Fiction,2017-01-15
+8,A00B01LYEOR3I,Aurora Rose Reynolds,UNTIL ASHLYN,Aurora Rose Reynolds,E-Book Fiction,2017-01-15
+7,9781466850606,St. Martin's,THE NIGHTINGALE,Kristin Hannah,E-Book Fiction,2017-01-15
+10,9780062416216,HarperCollins,THE ALCHEMIST,Paulo Coelho,E-Book Fiction,2017-01-15
+11,9781101947142,Knopf,HOMEGOING,Yaa Gyasi,E-Book Fiction,2017-01-15
+8,9780804138154,Crown Archetype,WHY NOT ME?,Mindy Kaling,E-Book Nonfiction,2017-01-15
+7,9781101874943,Knopf,LAB GIRL,Hope Jahren,E-Book Nonfiction,2017-01-15
+6,9780385535601,Doubleday,DARK MONEY,Jane Mayer,E-Book Nonfiction,2017-01-15
+5,9780553447446,Crown,EVICTED,Matthew Desmond,E-Book Nonfiction,2017-01-15
+4,9781455565351,Grand Central,THE DAILY SHOW (THE BOOK),Chris Smith,E-Book Nonfiction,2017-01-15
+14,9781488022661,Carina Press,EVERYTHING FOR HER,Alexa Riley,E-Book Fiction,2017-01-15
+13,9780062414236,Ecco/HarperCollins,THE NEST,Cynthia D'Aprix Sweeney,E-Book Fiction,2017-01-15
+12,9781455569946,Forever,THE TROUBLE WITH DUKES,Grace Burrowes,E-Book Fiction,2017-01-08
+14,9780345543028,Bantam,TURBO TWENTY-THREE,Janet Evanovich,E-Book Fiction,2017-01-08
+15,9781628727234,Arcade,THE HAMILTON AFFAIR,Elizabeth Cobbs,E-Book Fiction,2017-01-08
+13,9780385537049,Doubleday,THE UNDERGROUND RAILROAD,Colson Whitehead,E-Book Fiction,2017-01-08
+15,9780062494597,Harper/HarperCollins,SETTLE FOR MORE,Megyn Kelly,E-Book Nonfiction,2017-01-08
+14,9780425285183,Random House,TALKING AS FAST AS I CAN,Lauren Graham,E-Book Nonfiction,2017-01-08
+11,9781501135934,Scribner,SHOE DOG,Phil Knight,E-Book Nonfiction,2017-01-08
+10,9781501141539,Simon & Schuster,BORN TO RUN,Bruce Springsteen,E-Book Nonfiction,2017-01-08
+9,9781455588206,Grand Central,TV (THE BOOK),Alan Sepinwall and Matt Zoller Seitz,E-Book Nonfiction,2017-01-08
+10,A00B01FWPZQRY,Waterhouse,CRAVING,Helen Hardt,E-Book Fiction,2017-01-08
+8,9780804178815,Delacorte,NIGHT SCHOOL,Lee Child,E-Book Fiction,2017-01-08
+7,9780698410664,Putnam,TOM CLANCY TRUE FAITH AND ALLEGIANCE,Mark Greaney,E-Book Fiction,2017-01-08
+2,9781943772711,NYLA,ONE FELL SWEEP,Ilona Andrews,E-Book Fiction,2017-01-08
+1,A00B01HFPDRI4,Waterhouse,MELT,Helen Hardt,E-Book Fiction,2017-01-08
+13,9781501139901,Gallery Books,THE GIRL WITH THE LOWER BACK TATTOO,Amy Schumer,E-Book Nonfiction,2017-01-08
+6,9781101968116,Loveswept,MAX,Sawyer Bennett,E-Book Fiction,2017-01-01
+11,9780698190757,Berkley,ISLAND OF GLASS,Nora Roberts,E-Book Fiction,2017-01-01
+10,9780451488701,Intermix,DARK CRIME,Christine Feehan,E-Book Fiction,2017-01-01
+14,9780997120172,Teddy Harrison,MOONSHADOW,Thea Harrison,E-Book Fiction,2017-01-01
+8,9781942847045,WGW Books,NAUGHTY BOSS,Whitney G,E-Book Fiction,2017-01-01
+8,9781493018901,Lyons Press,THE SANTA CLAUS MAN,Alex Palmer,E-Book Nonfiction,2017-01-01
+2,9781946136039,HTJB,LIGHT AFTER DARK,Marie Force,E-Book Fiction,2017-01-01
+12,9780316362450,"Little, Brown",FILTHY RICH,James Patterson and John Connolly with Tim Malloy,E-Book Nonfiction,2017-01-01
+1,9780062381705,Morrow/HarperCollins,THE SEVENTH PLAGUE,James Rollins,E-Book Fiction,2017-01-01
+12,9781250116475,Holt,SUPERFICIAL,Andy Cohen,E-Book Nonfiction,2016-12-25
+6,9780062645371,Morrow,ALL THE GALLANT MEN,Donald Stratton with Ken Gire,E-Book Nonfiction,2016-12-25
+15,9780316319997,"Little, Brown",THE CHRISTMAS MYSTERY,James Patterson with Richard DiLallo,E-Book Fiction,2016-12-25
+12,9781101632093,Penguin,MRS. HEMINGWAY,Naomi Wood,E-Book Fiction,2016-12-25
+10,9781101884867,Loveswept,SOMEONE LIKE YOU,Lauren Layne,E-Book Fiction,2016-12-25
+8,9780997263619,KT Publishing,WOMANIZER,Katy Evans,E-Book Fiction,2016-12-25
+4,9780316217637,Orbit,BABYLON'S ASHES,James S A Corey,E-Book Fiction,2016-12-25
+3,9780698193284,Ballantine,BLOOD VOW,J R Ward,E-Book Fiction,2016-12-25
+14,9781455595754,Center Street,RIVER OF TIME,Naomi Judd with Marcia Wilkie,E-Book Nonfiction,2016-12-25
+3,9781250121011,St. Martin's,BEHIND CLOSED DOORS,B A Paris,E-Book Fiction,2016-12-18
+14,9781939996466,Denise Grover Swank,FAMILY JEWELS,Denise Grover Swank,E-Book Fiction,2016-12-18
+11,9780553897845,Bantam,A GAME OF THRONES,George RR Martin,E-Book Fiction,2016-12-18
+10,9780062250827,Harper,THE FLAME BEARER,Bernard Cornwell,E-Book Fiction,2016-12-18
+14,9781101906859,Crown Forum,ENHANCED INTERROGATION,James E Mitchell with Bill Harlow,E-Book Nonfiction,2016-12-18
+13,9781250115652,Flatiron,KATHY GRIFFIN'S CELEBRITY RUN-INS,Kathy Griffin,E-Book Nonfiction,2016-12-18
+12,9781501117237,Touchstone,SCRAPPY LITTLE NOBODY,Anna Kendrick,E-Book Nonfiction,2016-12-18
+1,9781455520701,Grand Central,TWO BY TWO,Nicholas Sparks,E-Book Fiction,2016-12-18
+7,9781101622742,Penguin,THE BOYS IN THE BOAT,Daniel James Brown,E-Book Nonfiction,2016-12-18
+5,9780062268372,Dey Street/Morrow,YES PLEASE,Amy Poehler,E-Book Nonfiction,2016-12-18
+8,9781459295360,Harlequin,UNFINISHED BUSINESS,Nora Roberts,E-Book Fiction,2016-12-18
+6,9780062101204,Morrow/HarperCollins,ORPHAN TRAIN,Christina Baker Kline,E-Book Fiction,2016-12-18
+15,9780698193673,Berkley,WHEN ALL THE GIRLS HAVE GONE,Jayne Ann Krentz,E-Book Fiction,2016-12-18
+4,9780698163454,Penguin,JAMES MADISON,Lynne Cheney,E-Book Nonfiction,2016-12-11
+10,9781250022127,Minotaur,A GREAT RECKONING,Louise Penny,E-Book Fiction,2016-12-11
+5,9780062316103,Harper,SAPIENS,Yuval Noah Harari,E-Book Nonfiction,2016-12-11
+11,9780062415820,Dey Street,NOTORIOUS RBG,Irin Carmon and Shana Knizhnik,E-Book Nonfiction,2016-12-11
+12,9780698188365,Blue Rider Press,THE PRINCESS DIARIST,Carrie Fisher,E-Book Nonfiction,2016-12-11
+2,9780316387859,"Little, Brown",THE CHEMIST,Stephenie Meyer,E-Book Fiction,2016-12-11
+15,9780698185395,Riverhead,THE GIRL ON THE TRAIN,Paula Hawkins,E-Book Fiction,2016-12-11
+14,A00B01EIJC2TK,Waterhouse,OVER THE EDGE,Meredith Wild,E-Book Fiction,2016-12-11
+13,9780062320247,Harper,THE BLACK WIDOW,Daniel Silva,E-Book Fiction,2016-12-11
+12,9781681196336,Bloomsbury Spark,OUT OF BOUNDS,Lauren Blakely,E-Book Fiction,2016-12-11
+14,9780307589385,Crown,THE IMMORTAL LIFE OF HENRIETTA LACKS,Rebecca Skloot,E-Book Nonfiction,2016-12-11
+12,9780307889805,Crown/Archetype,TESTIMONY,Robbie Robertson,E-Book Nonfiction,2016-12-04
+3,9780062436726,Morrow,CHAOS,Patricia Cornwell,E-Book Fiction,2016-12-04
+6,9780399575525,Putnam,ODESSA SEA,Clive Cussler and Dirk Cussler,E-Book Fiction,2016-12-04
+7,9781501108600,Simon & Schuster,THE SLEEPING BEAUTY KILLER,Mary Higgins Clark and Alafair Burke,E-Book Fiction,2016-12-04
+10,A00B01M23RUSL,Plain Jane,MANAGED,Kristen Callihan,E-Book Fiction,2016-12-04
+12,A00B01KKOTNBW,Stoker Aces,RESCUING HARLEY,Susan Stoker,E-Book Fiction,2016-12-04
+11,9781942832034,JKB,SWEET CHEEKS,K Bromberg,E-Book Fiction,2016-12-04
+15,9780997552942,VanScoy,MISCHIEF AND THE MASTERS,Cherise Sinclair,E-Book Fiction,2016-12-04
+6,9781250132932,Thomas Dunne/St. Martin’s,OUR REVOLUTION,Bernie Sanders,E-Book Nonfiction,2016-12-04
+10,9781620972267,New Press,STRANGERS IN THEIR OWN LAND,Arlie Russell Hochschild,E-Book Nonfiction,2016-12-04
+14,9780698198067,Portfolio,THE ROAD TO RUIN,James Rickards,E-Book Nonfiction,2016-12-04
+15,9781595588197,New Press,THE NEW JIM CROW,Michelle Alexander,E-Book Nonfiction,2016-11-27
+8,9780307886866,Crown,JUST BABIES,Paul Bloom,E-Book Nonfiction,2016-11-27
+13,9781466836952,"Farrar, Straus & Giroux",THE UNWINDING,George Packer,E-Book Nonfiction,2016-11-27
+14,9781101608487,Viking,WHITE TRASH,Nancy Isenberg,E-Book Nonfiction,2016-11-27
+5,9781101595954,Penguin,THE SIGNAL AND THE NOISE,Nate Silver,E-Book Nonfiction,2016-11-27
+3,9781466867512,St. Martin's,THIS WAS A MAN,Jeffrey Archer,E-Book Fiction,2016-11-27
+6,9780062463562,Avon Impulse,ONE SNOWY NIGHT,Jill Shalvis,E-Book Fiction,2016-11-27
+8,9781429952118,Tor,AT THE SIGN OF TRIUMPH,David Weber,E-Book Fiction,2016-11-27
+9,9780692527771,Rutherford,WRONG,Jana Aston,E-Book Fiction,2016-11-27
+10,9780998244419,Rutherford,TRUST,Jana Aston,E-Book Fiction,2016-11-27
+14,9780698411340,Signet,SOMEONE TO LOVE,Mary Balogh,E-Book Fiction,2016-11-27
+15,9781942834205,EverAfter,SAY YOU WANT ME,Corinne Michaels,E-Book Fiction,2016-11-27
+5,9780698406216,Jove,LEOPARD'S FURY,Christine Feehan,E-Book Fiction,2016-11-27
+14,9781250105103,St. Martin's,THE LOST GIRLS,Allison Brennan,E-Book Fiction,2016-11-20
+13,9781625795465,Baen Books,SHADOW OF VICTORY,David Weber,E-Book Fiction,2016-11-20
+12,9780997263633,KT Publishing,MR. PRESIDENT,Katy Evans,E-Book Fiction,2016-11-20
+10,9781476783505,Emily Bestler/Atria,VINCE FLYNN: ORDER TO KILL,Kyle Mills,E-Book Fiction,2016-11-20
+9,9780698152670,Putnam,ESCAPE CLAUSE,John Sandford,E-Book Fiction,2016-11-20
+15,9781101907498,Crown Archetype,NOT DEAD YET,Phil Collins,E-Book Nonfiction,2016-11-20
+6,9780451488015,Berkley,ARCHANGEL'S HEART,Nalini Singh,E-Book Fiction,2016-11-20
+5,9781101883860,Delacorte,THE AWARD,Danielle Steel,E-Book Fiction,2016-11-20
+3,9781942834205,BAAE,SAY YOU WANT ME,Corinne Michaels,E-Book Fiction,2016-11-20
+14,9780735289871,Waterbrook,SHAKEN,Tim Tebow,E-Book Nonfiction,2016-11-20
+12,9780062659439,Harper/HarperCollins,CLINTON CASH,Peter Schweizer,E-Book Nonfiction,2016-11-20
+7,9781628738988,Skyhorse,DONOVAN,William Stephenson and Richard Dunlop,E-Book Nonfiction,2016-11-20
+6,9780062238481,Harper,SISTERS IN LAW,Linda Hirshman,E-Book Nonfiction,2016-11-20
+4,9781621576426,Regnery,GUILTY AS SIN,Edward Klein,E-Book Nonfiction,2016-11-20
+2,9780399573965,Putnam,"SEX, LIES  AND SERIOUS MONEY",Stuart Woods,E-Book Fiction,2016-11-13
+5,9780316251310,Orbit,THE BLOOD MIRROR,Brent Weeks,E-Book Fiction,2016-11-13
+9,9780374712242,"Farrar, Straus & Giroux",THE SELLOUT,Paul Beatty,E-Book Fiction,2016-11-13
+7,9781937608538,DLZ Entertainment,SUBMISSION IS NOT ENOUGH,Lexi Blake,E-Book Fiction,2016-11-13
+9,9780345548719,Bantam,THE FLEET AT FLOOD TIDE,James Hornfischer,E-Book Nonfiction,2016-11-13
+13,9780544453678,Houghton Mifflin Harcourt,GUNSLINGER,Jeff Pearlman,E-Book Nonfiction,2016-11-13
+14,9780062469762,Dey Street/Morrow,A LITTLE THING CALLED LIFE,Linda Thompson,E-Book Nonfiction,2016-11-13
+15,9780385530873,Nan A. Talese,A LOWCOUNTRY HEART,Pat Conroy,E-Book Nonfiction,2016-11-13
+10,9780062425478,Morrow/HarperCollins,FAMILY TREE,Susan Wiggs,E-Book Fiction,2016-11-13
+11,9781466887336,St. Martin's,NIGHT WATCH,Iris Johansen and Roy Johansen,E-Book Fiction,2016-11-13
+14,9781942833284,Flip City Media,MARRIAGE GAMES,C D Reiss,E-Book Fiction,2016-11-13
+15,9781943781249,Fog City,LUKE,Barbara Freethy,E-Book Fiction,2016-11-13
+8,9780997426229,Emma Chase,ROYALLY SCREWED,Emma Chase,E-Book Fiction,2016-11-06
+15,9781455568130,Grand Central,MISSING,James Patterson and Kathryn Fox,E-Book Fiction,2016-11-06
+13,9781455581238,Grand Central,STING,Sandra Brown,E-Book Fiction,2016-11-06
+4,A00B01M9BU7A1,Lauren Blakely,THE SEXY ONE,Lauren Blakely,E-Book Fiction,2016-11-06
+12,9780062491817,Harper/HarperCollins,COMMONWEALTH,Ann Patchett,E-Book Fiction,2016-11-06
+10,9780812997842,Dial,THE TRUTH ACCORDING TO US,Annie Barrows,E-Book Fiction,2016-11-06
+9,9780698411449,Dutton,HOME,Harlan Coben,E-Book Fiction,2016-11-06
+2,9781455536900,Grand Central,THE OBSIDIAN CHAMBER,Douglas Preston and Lincoln Child,E-Book Fiction,2016-11-06
+15,9780316337564,"Little, Brown",TRUEVINE,Beth Macy,E-Book Nonfiction,2016-11-06
+14,9780385535748,Doubleday,HERO OF THE EMPIRE,Candice Millard,E-Book Nonfiction,2016-11-06
+13,9781501153280,Simon & Schuster,THEY'RE PLAYING OUR SONG,Carole Bayer Sager,E-Book Nonfiction,2016-11-06
+12,9781579657314,Artisan,BETTER THAN NEW,Nicole Curtis,E-Book Nonfiction,2016-11-06
+11,9781476723440,Atria,HUNGRY HEART,Jennifer Weiner,E-Book Nonfiction,2016-11-06
+8,9780062457530,Dey Street/Morrow,BUFFERING,Hannah Hart,E-Book Nonfiction,2016-11-06
+14,9780735221093,Viking,THE TRESPASSER,Tana French,E-Book Fiction,2016-11-06
+15,9781682307168,Claire Contreras,THE PLAYER,Claire Contreras,E-Book Fiction,2016-10-30
+14,9781101871362,Pantheon,PRECIOUS AND GRACE,Alexander McCall Smith,E-Book Fiction,2016-10-30
+15,9781455559640,Grand Central,BETWEEN BREATHS,Elizabeth Vargas,E-Book Nonfiction,2016-10-30
+14,9780306823077,Da Capo,I AM BRIAN WILSON,Brian Wilson and Ben Greenman,E-Book Nonfiction,2016-10-30
+12,9781101906224,Crown Forum,A TORCH KEPT LIT,William F Buckley Jr,E-Book Nonfiction,2016-10-30
+10,9781476793887,Scribner,A LIFE IN PARTS,Bryan Cranston,E-Book Nonfiction,2016-10-30
+8,9780997217834,Toya Wright,IN MY OWN WORDS ... MY REAL REALITY,Toya Wright,E-Book Nonfiction,2016-10-30
+7,9781942288091,CP Publishing,GOING DOWN FAST,Carly Phillips,E-Book Fiction,2016-10-30
+4,9781101987759,Berkley,CRIMSON DEATH,Laurell K Hamilton,E-Book Fiction,2016-10-30
+3,9781476723440,Simon & Schuster,HUNGRY HEART,Jennifer Weiner,E-Book Nonfiction,2016-10-30
+12,9781101968147,Loveswept,SUGAR FREE,Sawyer Bennett,E-Book Fiction,2016-10-30
+8,A00B01L87ZZMG,Kendall Ryan,THE FIX UP,Kendall Ryan,E-Book Fiction,2016-10-30
+7,9781501128004,Gallery Books,BEAUTIFUL,Christina Lauren,E-Book Fiction,2016-10-23
+6,9780553391749,Ballantine,TWELVE DAYS OF CHRISTMAS,Debbie Macomber,E-Book Fiction,2016-10-23
+15,9781455566082,Forever,FOUR LETTER WORD,J Daniels,E-Book Fiction,2016-10-23
+10,9780316403443,"Little, Brown",TODAY WILL BE DIFFERENT,Maria Semple,E-Book Fiction,2016-10-23
+12,9781101991770,Signet,DOWN SHIFT,K Bromberg,E-Book Fiction,2016-10-23
+14,9781466867505,St. Martin's,COMETH THE HOUR,Jeffrey Archer,E-Book Fiction,2016-10-23
+11,9780698164598,Putnam,BROKEN TRUST,WEB Griffin and William E Butterworth,E-Book Fiction,2016-10-23
+8,9780316261159,"Little, Brown",WINTER STORMS,Elin Hilderbrand,E-Book Fiction,2016-10-23
+9,9780316306072,Hachette Books,DISRUPTED,Dan Lyons,E-Book Nonfiction,2016-10-23
+7,9780062217226,Harper,WAITING TO BE HEARD,Amanda Knox,E-Book Nonfiction,2016-10-23
+2,A00B01EIJC2U4,Waterhouse,POSSESSION,Helen Hardt,E-Book Fiction,2016-10-16
+4,9780994054432,Elle Kennedy,THE GOAL,Elle Kennedy,E-Book Fiction,2016-10-16
+5,9780316317542,"Little, Brown",WOMAN OF GOD,James Patterson and Maxine Paetro,E-Book Fiction,2016-10-16
+6,9781250010728,St. Martin's,THE SILENT SISTER,Diane Chamberlain,E-Book Fiction,2016-10-16
+7,9781459294943,HQN,SNOWFALL ON HAVEN POINT,RaeAnne Thayne,E-Book Fiction,2016-10-16
+8,9781942295839,HTJB,SEX MACHINE,Marie Force,E-Book Fiction,2016-10-16
+10,9781460395950,Mira,THE LIFE SHE WANTS,Ron Carr,E-Book Fiction,2016-10-16
+11,9780062349057,Avon,DO YOU WANT TO START A SCANDAL,Tessa Dare,E-Book Fiction,2016-10-16
+12,9781476738031,Washington Square Press,A MAN CALLED OVE,Fredrik Backman,E-Book Fiction,2016-10-16
+13,9781460395929,Mira,DARKEST JOURNEY,Heather Graham,E-Book Fiction,2016-10-16
+14,9781617732294,Kensington,CHRISTMAS CARAMEL MURDER,Joanne Fluke,E-Book Fiction,2016-10-16
+15,9780062448057,Avon,THE TROUBLE WITH MISTLETOE,Jill Shalvis,E-Book Fiction,2016-10-16
+6,9780385354394,Knopf,HITLER: ASCENT 1889-1939,Volker Ullrich,E-Book Nonfiction,2016-10-16
+10,9781250082367,St. Martin's,LUST AND WONDER,Augusten Burroughs,E-Book Nonfiction,2016-10-16
+12,9781510703186,Skyhorse,THE QUANTUM RULES,Kunal K Das,E-Book Nonfiction,2016-10-16
+15,9780544814554,Houghton Mifflin Harcourt,WHEN NOBODY WAS WATCHING,Carli Lloyd with Wayne Coffey,E-Book Nonfiction,2016-10-16
+3,9780698136786,Ace,MAGIC BINDS,Ilona Andrews,E-Book Fiction,2016-10-09
+4,9780062430236,Morrow/HarperCollins,THE KEPT WOMAN,Karin Slaughter,E-Book Fiction,2016-10-09
+5,9780062316073,Avon,IMMORTAL NIGHTS,Lynsay Sands,E-Book Fiction,2016-10-09
+6,9781101202951,Putnam,THE BONESETTER'S DAUGHTER,Amy Tan,E-Book Fiction,2016-10-09
+8,9781942215493,Vi Keeland,PLAYBOY PILOT,Penelope Ward and Vi Keeland,E-Book Fiction,2016-10-09
+9,9781451681765,Scribner,THE LIGHT BETWEEN OCEANS,M L Stedman,E-Book Fiction,2016-10-09
+10,9781101987988,Berkley,APPRENTICE IN DEATH,J D Robb,E-Book Fiction,2016-10-09
+15,9781101982624,Putnam,BEST. STATE. EVER,Dave Barry,E-Book Nonfiction,2016-10-09
+14,9780062643148,Morrow,SULLY,Chesley B Sullenberger III with Jeffrey Zaslow,E-Book Nonfiction,2016-10-09
+11,9781459247314,MIRA,A SUMMER IN SONOMA,Ron Carr,E-Book Fiction,2016-10-09
+11,9781501141034,Howard,UNHOLY ALLIANCE,Jay Sekulow,E-Book Nonfiction,2016-10-09
+10,9781501125188,Howard Books,BELIEVING IN MAGIC,Cookie Johnson with Denene Millner,E-Book Nonfiction,2016-10-09
+8,9780812993639,Spiegel & Grau,BASED ON A TRUE STORY,Norm Macdonald,E-Book Nonfiction,2016-10-09
+15,9781501132940,Scout,THE WOMAN IN CABIN 10,Ruth Ware,E-Book Fiction,2016-10-09
+14,9780345539984,Delacorte,THRICE THE BRINDED CAT HATH MEW'D,Alan Bradley,E-Book Fiction,2016-10-09
+13,A00B01LYRXJ0I,Lauren Blakely,WELL HUNG,Lauren Blakely,E-Book Fiction,2016-10-09
+12,9781942835035,Paige Press,CHANDLER,Laurelin Paige,E-Book Fiction,2016-10-09
+6,9781101904664,Crown/Archetype,IN SUCH GOOD COMPANY,Carol Burnett,E-Book Nonfiction,2016-10-02
+8,9780062467010,Dey Street/ Morrow,FORWARD,Ab Wambach,E-Book Nonfiction,2016-10-02
+13,9780385542081,Nan A. Talese,NUTSHELL,Ian McEwan,E-Book Fiction,2016-10-02
+11,9781476738031,Atria Books,A MAN CALLED OVE,Fredrik Backman,E-Book Fiction,2016-10-02
+10,9780385349758,Knopf,RAZOR GIRL,Carl Hiaasen,E-Book Fiction,2016-10-02
+8,9780698166608,Putnam,ROBERT B. PARKER'S DEBT TO PAY,Reed Farrel Coleman,E-Book Fiction,2016-10-02
+5,9780698157521,Viking,AN OBVIOUS FACT,Craig Johnson,E-Book Fiction,2016-10-02
+10,9780698408869,Blue Rider,GOOD VIBRATIONS,Mike Love,E-Book Nonfiction,2016-10-02
+2,9780062491817,Harper,COMMONWEALTH,Ann Patchett,E-Book Fiction,2016-10-02
+7,9781455568239,Center Street,SCORCHED EARTH,Michael Savage,E-Book Nonfiction,2016-10-02
+3,9780399183997,Putnam,PIRATE,Clive Cussler and Robin Burcell,E-Book Fiction,2016-10-02
+11,9781627796071,Holt,I'M JUDGING YOU,Luvvie Ajayi,E-Book Nonfiction,2016-10-02
+12,9780307461209,Crown Archetype,THIS TIME TOGETHER,Carol Burnett,E-Book Nonfiction,2016-10-02
+13,9781480413474,Delphinium,"MY NEW ORLEANS, GONE AWAY",Peter M Wolf,E-Book Nonfiction,2016-10-02
+13,9781493018376,Lyons,PEREGRINE SPRING,Nancy Cowan,E-Book Nonfiction,2016-09-25
+2,9780062297730,Morrow/HarperCollins,DOWNFALL,J A Jance,E-Book Fiction,2016-09-25
+6,9781501132476,Gallery Books,IT'S NOT OKAY,Andi Dorfman,E-Book Nonfiction,2016-09-25
+9,9780735220799,Viking,THE PIGEON TUNNEL,John le Carré,E-Book Nonfiction,2016-09-25
+10,9780698407480,Penguin Press,THE RED BANDANNA,Tom Rinaldi,E-Book Nonfiction,2016-09-25
+14,9781451698237,Scribner,"CARRY ON, WARRIOR",Glennon Doyle Melton,E-Book Nonfiction,2016-09-25
+6,9781101987513,Berkley,I LET YOU GO,Clare Mackintosh,E-Book Fiction,2016-09-25
+8,9780062325426,Morrow/HarperCollins,DEPRAVED HEART,Patricia Cornwell,E-Book Fiction,2016-09-25
+10,9780316361521,BookShots,113 MINUTES,James Patterson with Max DiLallo,E-Book Fiction,2016-09-25
+11,A00B01KSW4QJA,Tijan,ANTI-STEPBROTHER,Tijan,E-Book Fiction,2016-09-25
+12,9780698196254,Berkley,GUARDIAN'S MATE,Jennifer Ashley,E-Book Fiction,2016-09-25
+13,9781455568208,Forever,THE PROTECTOR,Jodi Ellen Malpas,E-Book Fiction,2016-09-25
+2,9780316322416,"Little, Brown",I AM MALALA,Malala Yousafzai with Christina Lamb,E-Book Nonfiction,2016-09-18
+14,9780385354295,Knopf,THE GIRL IN THE SPIDER'S WEB,David Lagercrantz,E-Book Fiction,2016-09-18
+15,9781501107481,Simon & Schuster,THE JEALOUS KIND,James Lee Burke,E-Book Fiction,2016-09-18
+9,9781460394137,HQN,ALWAYS A COWBOY,Linda Lael Miller,E-Book Fiction,2016-09-18
+10,9780062379443,Avon,A SCOT IN THE DARK,Sarah MacLean,E-Book Fiction,2016-09-18
+7,9781420140644,Zebra,FAST AND LOOSE,Fern Michaels,E-Book Fiction,2016-09-18
+2,9780425285374,Delacorte,RUSHING WATERS,Danielle Steel,E-Book Fiction,2016-09-18
+10,9780385536721,Doubleday,AMERICAN HEIRESS,Jeffrey Toobin,E-Book Nonfiction,2016-09-18
+14,9781429909952,St. Martin's,KISS ME LIKE A STRANGER,Gene Wilder,E-Book Nonfiction,2016-09-18
+13,9781621575320,Regnery,HILLARY'S AMERICA,Dinesh D'Souza,E-Book Nonfiction,2016-09-18
+11,9781630060596,Humanix,ARMAGEDDON,Dick Morris and Eileen McGann,E-Book Nonfiction,2016-09-18
+9,9780316404648,"Little, Brown",THE KINGDOM OF SPEECH,Tom Wolfe,E-Book Nonfiction,2016-09-18
+8,9780310522560,Zondervan,NO GOD BUT ONE - ALLAH OR JESUS?,Nabeel Qureshi,E-Book Nonfiction,2016-09-18
+9,9780061980244,HarperCollins,THE PACT,Jodi Picoult,E-Book Fiction,2016-09-11
+11,9780316284554,"Little, Brown",BULLSEYE,James Patterson and Michael Ledwidge,E-Book Fiction,2016-09-11
+12,9781942295518,HTJB,RAVENOUS,M S Force,E-Book Fiction,2016-09-11
+14,9781101989722,Berkley,WILD EMBRACE,Nalini Singh,E-Book Fiction,2016-09-11
+15,9781501150319,Gallery Books,INSIDIOUS,Catherine Coulter,E-Book Fiction,2016-09-11
+1,9780062405630,Morrow/HarperCollins,FIRST STAR I SEE TONIGHT,Susan Elizabeth Phillips,E-Book Fiction,2016-09-11
+3,9780345459527,Ballantine,SUMMER ISLAND,Kristin Hannah,E-Book Fiction,2016-09-11
+14,9781455568888,Center Street,CRISIS OF CHARACTER,Gary J Byrne with Grant M Schmidt,E-Book Nonfiction,2016-09-11
+8,9780062410177,Avon,WITH EVERY BREATH,Maya Banks,E-Book Fiction,2016-09-11
+3,9781501155789,Scribner,TRUMP REVEALED,Michael Kranish and Marc Fisher,E-Book Nonfiction,2016-09-11
+5,9780735214477,Sentinel,IN TRUMP WE TRUST,Ann Coulter,E-Book Nonfiction,2016-09-11
+10,A00B00LAI2SV0,Fine Line,THE MEMORY BOX,Eva Natiello,E-Book Fiction,2016-09-11
+10,9780345544810,Ballantine,THE PERFECT HORSE,Elizabeth Letts,E-Book Nonfiction,2016-09-11
+4,A00B01GJ5LT0O,Jamie McGuire,A BEAUTIFUL FUNERAL,Jamie McGuire,E-Book Fiction,2016-09-04
+15,9780062190819,Morrow,KILLING ORDERS,Sara Paretsky,E-Book Fiction,2016-09-04
+13,9780062194862,Morrow,PORCH LIGHTS,Dorothea Benton Frank,E-Book Fiction,2016-09-04
+12,A00B01FR7DBL0,Kristen Ashley,MIDNIGHT SOUL,Kristen Ashley,E-Book Fiction,2016-09-04
+10,9780061795206,HarperCollins,THE BLESSING WAY,Tony Hillerman,E-Book Fiction,2016-09-04
+2,9780553392692,Bantam,CURIOUS MINDS,Janet Evanovich and Phoef Sutton,E-Book Fiction,2016-09-04
+7,9781942215479,Penelope Ward,NEIGHBOR DEAREST,Penelope Ward,E-Book Fiction,2016-09-04
+6,A00B01FT4OAUW,Blue Bolt,SHADOW BORN,Jasmine Walt and Rebecca Hamilton,E-Book Fiction,2016-09-04
+8,9781250099631,St. Martin’s,DAMAGED,Lisa Scottoline,E-Book Fiction,2016-09-04
+14,9780679645986,Spiegel & Grau,BETWEEN THE WORLD AND ME,Ta-Nehisi Coates,E-Book Nonfiction,2016-09-04
+15,9780062441393,Custom House/Morrow,POWERHOUSE,James Andrew Miller,E-Book Nonfiction,2016-09-04
+10,9780061859960,HarperCollins,CHALKED UP,Jennifer Sey,E-Book Nonfiction,2016-09-04
+3,9780061885075,HarperCollins,IN THE SANCTUARY OF OUTCASTS,Neil White,E-Book Nonfiction,2016-09-04
+8,9781476758756,Touchstone,"THREE SISTERS, THREE QUEENS",Philippa Gregory,E-Book Fiction,2016-08-28
+9,9781101988978,Berkley,REAPER'S FIRE,Joanna Wylde,E-Book Fiction,2016-08-28
+12,9780062425478,Morrow,FAMILY TREE,Susan Wiggs,E-Book Fiction,2016-08-28
+14,9781501110375,Atria,IT ENDS WITH US,Colleen Hoover,E-Book Fiction,2016-08-28
+15,9781945253157,Oak Press,EVERY BEAT OF MY HEART,Bella Andre,E-Book Fiction,2016-08-28
+13,9781250087119,St. Martin's,ADNAN'S STORY,Rabia Chaudry,E-Book Nonfiction,2016-08-28
+15,9781612196336,Melville House,THE MAKING OF DONALD TRUMP,David Cay Johnston,E-Book Nonfiction,2016-08-28
+6,9780062434784,Morrow/HarperCollins,CLOSE TO YOU,Kristen Pro,E-Book Fiction,2016-08-28
+11,9781942215462,Vi Keeland,BOSSMAN,Vi Keeland,E-Book Fiction,2016-08-28
+4,9780062499042,Witness Impulse,RANDOM ACTS,J A Jance,E-Book Fiction,2016-08-28
+5,9780718021771,Thomas Nelson,"A HOBBIT, A WARDROBE, AND A GREAT WAR",Joseph Loconte,E-Book Nonfiction,2016-08-28
+11,9781588364098,Random House,GRACE AND POWER,Sally Bedell-Smith,E-Book Nonfiction,2016-08-28
+3,9780062342867,Harper,HER AGAIN,Michael Schulman,E-Book Nonfiction,2016-08-28
+2,9780440335160,Dell,OUTLANDER,Diana Gabaldon,E-Book Fiction,2016-08-28
+8,9781476798912,Threshold,LIARS,Glenn Beck,E-Book Nonfiction,2016-08-21
+11,9781588369390,Spiegel & Grau,THE HIDDEN BRAIN,Shankar Vedantam,E-Book Nonfiction,2016-08-21
+2,9780698179967,Penguin Press,MODERN ROMANCE,Aziz Ansari with Eric Klinenberg,E-Book Nonfiction,2016-08-21
+13,A00B01F3BYKTW,Blue Bolt,MAGIC AND MAYHEM,Jasmine Walt,E-Book Fiction,2016-08-21
+12,9781250092410,St. Martin's,DRAGONMARK,Sherrilyn Kenyon,E-Book Fiction,2016-08-21
+10,9780307418708,Random House,WASHINGTON'S SPIES,Alexander Rose,E-Book Nonfiction,2016-08-21
+12,9781588367334,Random House,EMPIRES OF THE SEA,Roger Crowley,E-Book Nonfiction,2016-08-21
+13,9781501139536,Simon & Schuster,PRESTO!,Penn Jillette,E-Book Nonfiction,2016-08-21
+14,9781101584989,Berkley,THE HYPNOTIST'S LOVE STORY,Liane Moriarty,E-Book Fiction,2016-08-21
+9,9780812998610,Random House,THE GIRLS,Emma Cline,E-Book Fiction,2016-08-21
+7,9780316361644,BookShots,CHASE,James Patterson with Michael Ledwidge,E-Book Fiction,2016-08-21
+6,9780698197763,Berkley,DARK CAROUSEL,Christine Feehan,E-Book Fiction,2016-08-21
+3,9780399185281,Putnam,SMOOTH OPERATOR,Stuart Woods and Parnell Hall,E-Book Fiction,2016-08-21
+2,9780553391848,Random House,SWEET TOMORROWS,Debbie Macomber,E-Book Fiction,2016-08-21
+11,9781459294004,Mira,SWEPT AWAY,Ron Carr,E-Book Fiction,2016-08-14
+12,9780997540604,Max Monroe,TAPPING THE BILLIONAIRE,Max Monroe,E-Book Fiction,2016-08-14
+14,9780007554867,William Collins,THE GIRL WITH SEVEN NAMES,Hyeonseo Lee with David John,E-Book Nonfiction,2016-08-14
+13,9780062458216,Harper,CHAOS MONKEYS,Antonio García Martínez,E-Book Nonfiction,2016-08-14
+12,9781501127250,Threshold Editions,THE LAST PUNISHER,Kevin Lacz and Lindsey Lacz,E-Book Nonfiction,2016-08-14
+11,9781627797887,Holt,BILL O'REILLY'S LEGENDS AND LIES: THE PATRIOTS,David Fisher,E-Book Nonfiction,2016-08-14
+7,9781634508322,Skyhorse,AGONY AND ELOQUENCE,Daniel L Mallock,E-Book Nonfiction,2016-08-14
+13,9781101904237,Crown/Archetype,DARK MATTER,Blake Crouch,E-Book Fiction,2016-08-14
+15,A00B01F1N0P4Q,7th Press,SCORCH,Liliana Hart,E-Book Fiction,2016-08-14
+14,9781455561803,Grand Central,BEFORE THE FALL,Noah Hawley,E-Book Fiction,2016-08-14
+5,9781459294929,HQN,FATAL IDENTITY,Marie Force,E-Book Fiction,2016-08-14
+10,9781460395646,Mira,DEADLY FATE,Heather Graham,E-Book Fiction,2016-08-14
+9,9781101984024,Dutton,KILLER LOOK,Linda Fairstein,E-Book Fiction,2016-08-14
+8,9780698193048,New American Library,THE ANGELS' SHARE,J R Ward,E-Book Fiction,2016-08-14
+6,9781460346761,Mira,THE HOUSE ON OLIVE STREET,Ron Carr,E-Book Fiction,2016-08-14
+3,9780698187429,Jove,ILLUSION TOWN,Jayne Castle,E-Book Fiction,2016-08-14
+8,9781455531196,Grand Central,YOU'LL GROW OUT OF IT,Jessi Klein,E-Book Nonfiction,2016-08-07
+9,9781250106230,St. Martin's,THE FIELD OF FIGHT,Michael T Flynn and Michael Ledeen,E-Book Nonfiction,2016-08-07
+5,9780345543868,Ballantine,DIE AGAIN,Tess Gerritsen,E-Book Fiction,2016-08-07
+3,9781466887213,St. Martin's,NIGHT AND DAY,Iris Johansen,E-Book Fiction,2016-08-07
+8,9781942288077,Carly Phillips,GOING DOWN EASY,Carly Phillips,E-Book Fiction,2016-08-07
+9,9780553905243,Bantam,THE SUGAR QUEEN,Sarah Addison Allen,E-Book Fiction,2016-08-07
+10,9780399583292,Berkley,FALLING,Jane Green,E-Book Fiction,2016-08-07
+11,9780345537829,Ballantine,THE WISHING THREAD,Lisa Van Allen,E-Book Fiction,2016-08-07
+12,9780345546937,Ballantine,FIRST COMES LOVE,Emily Giffin,E-Book Fiction,2016-08-07
+13,A00B01EKRJZ86,Stoker Aces Production,RESCUING EMILY,Susan Stoker,E-Book Fiction,2016-08-07
+15,9780316290197,"Little, Brown",THE GAMES,James Patterson and Mark Sullivan,E-Book Fiction,2016-08-07
+14,9781501147647,Simon & Schuster,FREEDOM,Jaycee Dugard,E-Book Nonfiction,2016-08-07
+13,9781501132858,Atria/Keywords,IT GETS WORSE,Shane Dawson,E-Book Nonfiction,2016-08-07
+4,A00B01EGIKZVU,Waterhouse,OBSESSION,Helen Hardt,E-Book Fiction,2016-08-07
+15,9780698152045,Pamela Dorman/Viking,AFTER YOU,Jojo Moyes,E-Book Fiction,2016-07-31
+3,9780759527881,Grand Central,THE GUARDIAN,Nicholas Sparks,E-Book Fiction,2016-07-31
+5,9781460394359,HQN,DAUGHTERS OF THE BRIDE,Susan Mallery,E-Book Fiction,2016-07-31
+6,9780759525788,"Little, Brown & Company",THE BLACK ICE,Michael Connelly,E-Book Fiction,2016-07-31
+7,9781101606377,Penguin,ME BEFORE YOU,Jojo Moyes,E-Book Fiction,2016-07-31
+8,9781466867277,St. Martin's,AMONG THE WICKED,Linda Castillo,E-Book Fiction,2016-07-31
+11,9780997792102,Kaylee Ryan,UNEXPECTED REALITY,Kaylee Ryan,E-Book Fiction,2016-07-31
+12,9781501118166,Gallery,CREAM OF THE CROP,Alice Clayton,E-Book Fiction,2016-07-31
+14,9780062333025,HarperCollins,THE BOOKSELLER,Cynthia Swanson,E-Book Fiction,2016-07-31
+1,9780062190048,Morrow,THE NAZI OFFICER'S WIFE,Edith H Beer with Susan Dworkin,E-Book Nonfiction,2016-07-31
+6,9780061803970,HarperCollins,MANHUNT,James L Swanson,E-Book Nonfiction,2016-07-31
+3,9781497659278,Open Road,CRAZY HORSE AND CUSTER,Stephen Ambrose,E-Book Nonfiction,2016-07-31
+2,9780316175869,"Reagan Arthur/Little, Brown",BOSSYPANTS,Tina Fey,E-Book Nonfiction,2016-07-31
+11,9780307407672,Crown,MY LOBOTOMY,Howard Dully and Charles Fleming,E-Book Nonfiction,2016-07-31
+10,9781615192540,The Experiment,MY GRANDFATHER WOULD HAVE SHOT ME,Jennifer Teege and Nikola Sellmair,E-Book Nonfiction,2016-07-31
+15,9781594038761,Encounter,THE WAR ON COPS,Heather Mac Donald,E-Book Nonfiction,2016-07-31
+14,9780062116314,Harper,CLOUDS OF GLORY,Michael Korda,E-Book Nonfiction,2016-07-31
+12,9780062313188,Harper,THE MOST DANGEROUS ANIMAL OF ALL,Gary L Stewart with Susan Mustafa,E-Book Nonfiction,2016-07-31
+9,9780385534338,Anchor,KING PEGGY,Peggielene Bartels and Eleanor Herman,E-Book Nonfiction,2016-07-24
+10,9781451629200,Simon & Schuster,A STOLEN LIFE,Jaycee Dugard,E-Book Nonfiction,2016-07-24
+11,9781476741215,Simon & Schuster,BUSH,Jean Edward Smith,E-Book Nonfiction,2016-07-24
+8,9781510703711,Skyhorse,SINATRA AND THE JACK PACK,Michael Sheridan and David Harvey,E-Book Nonfiction,2016-07-24
+2,9780767928472,Broadway,ESCAPE,Carolyn Jessop,E-Book Nonfiction,2016-07-24
+11,9781476789378,Emily Bestler/Atria,FOREIGN AGENT,Brad Thor,E-Book Fiction,2016-07-24
+15,9781476756127,Simon & Schuster,SEINFELDIA,Jennifer Keishin Armstrong,E-Book Nonfiction,2016-07-24
+9,9781942834182,BAAE,SAY YOU'LL STAY,Corinne Michaels,E-Book Fiction,2016-07-24
+1,9780316360593,BookShots,THE TRIAL,James Patterson with Maxine Paetro,E-Book Fiction,2016-07-24
+2,9781101885574,Delacorte,MAGIC,Danielle Steel,E-Book Fiction,2016-07-24
+3,A00B01GNLNGZU,Kendall Ryan,HITCHED,Kendall Ryan,E-Book Fiction,2016-07-24
+5,9780061796784,HarperCollins,WHAT THE DEAD KNOW,Laura Lippman,E-Book Fiction,2016-07-24
+8,9781940941776,Alessandra Torre,MOONSHOT,Alessandra Torre,E-Book Fiction,2016-07-24
+10,9781420124323,Kensington,BETRAYAL,Fern Michaels,E-Book Fiction,2016-07-24
+3,9781118452950,Jossey-Bass,ATHENA DOCTRINE,John Gerzema and Michael D’Antonio,Combined Print Nonfiction,2013-05-05
+9,9781250019981,St. Martin's Press,TAKING EVE,Iris Johansen,Combined Print Fiction,2013-05-05
+9,9780062213655,Morrow,UNSINKABLE,Debbie Reynolds and Dorian Hannaway,Combined Print Nonfiction,2013-05-05
+11,9780670026555,Viking,GIVE AND TAKE,Adam Grant,Combined Print Nonfiction,2013-05-05
+14,9781586489120,PublicAffairs,GREAT DEFORMATION,David Stockman,Combined Print Nonfiction,2013-05-05
+15,9780312381042,St. Martin's Press,MY WAY,Paul Anka with David Dalton,Combined Print Nonfiction,2013-05-05
+16,9780805096668,Holt,KILLING KENNEDY,Bill O'Reilly and Martin Dugard,Combined Print Nonfiction,2013-05-05
+17,9781400066117,Random House,MOM & ME & MOM,Maya Angelou,Combined Print Nonfiction,2013-05-05
+18,9780307594884,Knopf,MY BELOVED WORLD,Sonia Sotomayor,Combined Print Nonfiction,2013-05-05
+19,9780849946158,Thomas Nelson,HEAVEN IS FOR REAL,Todd Burpo with Lynn Vincent,Combined Print Nonfiction,2013-05-05
+20,9781400069804,Random House,SALT SUGAR FAT,Michael Moss,Combined Print Nonfiction,2013-05-05
+19,9781455515516,Vision,NOW YOU SEE HER,James Patterson and Michael Ledwidge,Combined Print Fiction,2013-05-05
+10,9781455526956,Grand Central Publishing,THE BLACK BOX,Michael Connelly,Combined Print Fiction,2013-05-05
+13,9781250010070,St. Martin's Press,DON'T GO,Lisa Scottoline,Combined Print Fiction,2013-05-05
+14,9781455523153,Grand Central Publishing,THE FORGOTTEN,David Baldacci,Combined Print Fiction,2013-05-05
+16,9780425264768,Berkley,THE WITNESS,Nora Roberts,Combined Print Fiction,2013-05-05
+17,9780399159879,Putnam,UNINTENDED CONSEQUENCES,Stuart Woods,Combined Print Fiction,2013-05-05
+18,9780525953487,Dutton,SIX YEARS,Harlan Coben,Combined Print Fiction,2013-05-05
+20,9780345803498,Vintage,FIFTY SHADES DARKER,E L James,Combined Print Fiction,2013-05-05
+3,9780446547635,Grand Central Publishing,THE BEST OF ME,Nicholas Sparks,Combined Print Fiction,2013-05-05
+14,9780307594884,Knopf Doubleday Publishing,MY BELOVED WORLD,Sonia Sotomayor,Combined Print Nonfiction,2013-04-28
+18,9780385346870,Crown Publishing,SUM IT UP,Pat Head Summitt with Sally Jenkins,Combined Print Nonfiction,2013-04-28
+15,9781400069804,Random House Publishing,SALT SUGAR FAT,Michael Moss,Combined Print Nonfiction,2013-04-28
+16,9780425252864,Penguin Group,A HIGHER CALL,Adam Makos with Larry Alexander,Combined Print Nonfiction,2013-04-28
+10,9781594204807,Penguin Group,WAY OF THE KNIFE,Mark Mazzetti,Combined Print Nonfiction,2013-04-28
+1,9780385349949,Knopf Doubleday Publishing,LEAN IN,Sheryl Sandberg with Nell Scovell,Combined Print Nonfiction,2013-04-28
+9,9780062213655,HarperCollins Publishers,UNSINKABLE,Debbie Reynolds and Dorian Hannaway,Combined Print Nonfiction,2013-04-28
+8,9780307352156,Crown Publishing,QUIET,Susan Cain,Combined Print Nonfiction,2013-04-28
+6,9780062238863,HarperCollins Publishers,AMERICAN SNIPER,Chris Kyle with Scott McEwen and Jim DeFelice,Combined Print Nonfiction,2013-04-28
+4,9780670026555,Penguin Group,GIVE AND TAKE,Adam Grant,Combined Print Nonfiction,2013-04-28
+3,9780307476074,Knopf Doubleday Publishing,WILD,Cheryl Strayed,Combined Print Nonfiction,2013-04-28
+19,9781400066117,Random House Publishing,MOM & ME & MOM,Maya Angelou,Combined Print Nonfiction,2013-04-28
+10,9780525953487,Penguin Group,SIX YEARS,Harlan Coben,Combined Print Fiction,2013-04-28
+19,9781455515516,"Little, Brown & Company",NOW YOU SEE HER,James Patterson and Michael Ledwidge,Combined Print Fiction,2013-04-28
+9,9780307588364,Crown Publishing,GONE GIRL,Gillian Flynn,Combined Print Fiction,2013-04-28
+20,9780061928178,HarperCollins Publishers,BEAUTIFUL RUINS,Jess Walter,Combined Print Fiction,2013-04-28
+18,9781451668926,Simon & Schuster,THE LOST YEARS,Mary Higgins Clark,Combined Print Fiction,2013-04-28
+17,9780425250662,Penguin Group,DELUSION IN DEATH,J D Robb,Combined Print Fiction,2013-04-28
+16,9780345528810,Random House Publishing,STARTING NOW,Debbie Macomber,Combined Print Fiction,2013-04-28
+13,9780345803481,Knopf Doubleday Publishing,FIFTY SHADES OF GREY,E L James,Combined Print Fiction,2013-04-28
+12,9780425264768,Penguin Group,THE WITNESS,Nora Roberts,Combined Print Fiction,2013-04-28
+11,9780307346612,Crown Publishing,WORLD WAR Z,Max Brooks,Combined Print Fiction,2013-04-28
+14,9780553573404,Random House Publishing,A GAME OF THRONES,George RR Martin,Combined Print Fiction,2013-04-28
+8,9780385349833,Knopf Doubleday Publishing,MANUSCRIPT FOUND IN ACCRA,Paulo Coelho,Combined Print Fiction,2013-04-28
+6,9780345541338,Knopf Doubleday Publishing,CALICO JOE,John Grisham,Combined Print Fiction,2013-04-28
+4,9780399159879,Penguin Group,UNINTENDED CONSEQUENCES,Stuart Woods,Combined Print Fiction,2013-04-28
+3,9780316176484,"Little, Brown & Company",LIFE AFTER LIFE,Kate Atkinson,Combined Print Fiction,2013-04-28
+7,9781400067688,Random House Publishing,THE BURGESS BOYS,Elizabeth Strout,Combined Print Fiction,2013-04-28
+10,9780316043045,"Little, Brown & Company",THE HOST,Stephenie Meyer,Combined Print Fiction,2013-04-21
+12,9780778314479,Harlequin,THE WANDERER,Ron Carr,Combined Print Fiction,2013-04-21
+4,9780425267066,Penguin Group,FEVER,Maya Banks,Combined Print Fiction,2013-04-21
+1,9781476712987,Simon & Schuster,WALKING DISASTER,Jamie McGuire,Combined Print Fiction,2013-04-21
+16,9780547848655,Houghton Mifflin Harcourt,CLEAN,David Sheff,Combined Print Nonfiction,2013-04-21
+7,9781451697247,Scribner,"CARRY ON, WARRIOR",Glennon Doyle Melton,Combined Print Nonfiction,2013-04-21
+10,9780230342118,Palgrave Macmillan,SECRETS OF SILICON VALLEY,Deborah Perry Piscione,Combined Print Nonfiction,2013-04-21
+19,9781451617528,Touchstone,THE GIRLS OF ATOMIC CITY,Denise Kiernan,Combined Print Nonfiction,2013-04-21
+20,9781476703541,Howard Books,DUCK COMMANDERS,Willie and Korie Robertson with Mark Schlabach,Combined Print Nonfiction,2013-04-21
+20,9780425261019,Penguin Group,LET'S PRETEND THIS NEVER HAPPENED,Jenny Lawson,Combined Print Nonfiction,2013-04-14
+16,9781400069743,Random House Publishing,THOSE ANGRY DAYS,Lynne Olson,Combined Print Nonfiction,2013-04-14
+14,9781400064168,Random House Publishing,UNBROKEN,Laura Hillenbrand,Combined Print Nonfiction,2013-04-14
+11,9780525953722,Penguin Group,NO EASY DAY,Mark Owen with Kevin Maurer,Combined Print Nonfiction,2013-04-14
+12,9781476714783,Simon & Schuster,SOUNDTRACK OF MY LIFE,Clive Davis with Anthony DeCurtis,Combined Print Nonfiction,2013-04-14
+18,9780805093070,Holt,KILLING LINCOLN,Bill O'Reilly and Martin Dugard,Combined Print Nonfiction,2013-04-14
+9,9780062049605,HarperCollins Publishers,LEAVING EVERYTHING MOST LOVED,Jacqueline Winspear,Combined Print Fiction,2013-04-14
+13,9780778314363,Harlequin,SAND CASTLE BAY,Sherryl Woods,Combined Print Fiction,2013-04-14
+17,9780316056892,"Little, Brown & Company",BOSSYPANTS,Tina Fey,Combined Print Nonfiction,2013-04-14
+15,9780156027328,Houghton Mifflin Harcourt,LIFE OF PI,Yann Martel,Combined Print Fiction,2013-04-14
+17,9781439102763,Atria/Emily Bestler Books,THE STORYTELLER,Jodi Picoult,Combined Print Fiction,2013-04-14
+18,9780425256381,Penguin Group,DEADLOCKED,Charlaine Harris,Combined Print Fiction,2013-04-14
+19,9780062068644,HarperCollins Publishers,AND THEN SHE FELL,Stephanie Laurens,Combined Print Fiction,2013-04-14
+20,9780764209796,Bethany House Publishers,THE GUARDIAN,Beverly Lewis,Combined Print Fiction,2013-04-14
+1,9780451239358,Penguin Group,LOVER AT LAST,J R Ward,Combined Print Fiction,2013-04-14
+7,9780316097512,"Little, Brown & Company","ALEX CROSS, RUN",James Patterson,Combined Print Fiction,2013-04-07
+8,9780446572989,Grand Central Publishing,THE INNOCENT,David Baldacci,Combined Print Fiction,2013-04-07
+10,9780307273574,Knopf Doubleday Publishing,A WEEK IN WINTER,Maeve Binchy,Combined Print Fiction,2013-04-07
+11,9780316218511,"Little, Brown & Company",THE HOST,Stephenie Meyer,Combined Print Fiction,2013-04-07
+12,9781455523542,Grand Central Publishing,SAFE HAVEN,Nicholas Sparks,Combined Print Fiction,2013-04-07
+13,9780345803498,Knopf Doubleday Publishing,FIFTY SHADES DARKER,E L James,Combined Print Fiction,2013-04-07
+14,9780345803504,Knopf Doubleday Publishing,FIFTY SHADES FREED,E L James,Combined Print Fiction,2013-04-07
+16,9780345521316,Random House Publishing,THE PARIS WIFE,Paula McLain,Combined Print Fiction,2013-04-07
+17,9780374533571,"Farrar, Straus & Giroux",THE SILVER LININGS PLAYBOOK,Matthew Quick,Combined Print Fiction,2013-04-07
+18,9780440246138,Random House Publishing,DEFENDING JACOB,William Landay,Combined Print Fiction,2013-04-07
+19,9780399161773,Penguin Group,THE STRIKER,Clive Cussler and Justin Scott,Combined Print Fiction,2013-04-07
+20,9780399160752,Penguin Group,BREAKING POINT,C J Box,Combined Print Fiction,2013-04-07
+14,9780062241450,HarperCollins Publishers,UNTIL I SAY GOOD-BYE,Susan Spencer-Wendel with Bret Witter,Combined Print Nonfiction,2013-04-07
+9,9780307460998,Crown Publishing,DRIFT,Rachel Maddow,Combined Print Nonfiction,2013-04-07
+4,9780547848419,Houghton Mifflin Harcourt,LIFE OF PI,Yann Martel,Combined Print Fiction,2013-03-31
+20,9780307592736,Knopf Doubleday Publishing,WILD,Cheryl Strayed,Combined Print Nonfiction,2013-03-31
+16,9781594205347,Penguin Group,DETROIT,Charlie LeDuff,Combined Print Nonfiction,2013-03-31
+18,9780316017930,"Little, Brown & Company",OUTLIERS,Malcolm Gladwell,Combined Print Nonfiction,2013-03-31
+5,9780446547574,Grand Central Publishing,SAFE HAVEN,Nicholas Sparks,Combined Print Fiction,2013-03-31
+12,9780345523501,Random House Publishing,BLOODFIRE QUEST,Terry Brooks,Combined Print Fiction,2013-03-31
+16,9781476733951,Simon & Schuster,WOOL,Hugh Howey,Combined Print Fiction,2013-03-31
+20,9780425259290,Penguin Group,THE THIEF,Clive Cussler and Justin Scott,Combined Print Fiction,2013-03-31
+17,9780547928173,Houghton Mifflin Harcourt,FRANCONA,Terry Francona and Dan Shaughnessy,Combined Print Nonfiction,2013-03-24
+16,9781401324797,Hyperion,DAMN FEW,Rorke Denver and Ellis Henican,Combined Print Nonfiction,2013-03-24
+15,9780812993929,Random House Publishing,OUT OF ORDER,Sandra Day O'Connor,Combined Print Nonfiction,2013-03-24
+13,9780061967559,HarperCollins Publishers,COOLIDGE,Amity Shlaes,Combined Print Nonfiction,2013-03-24
+6,9781455523559,Grand Central Publishing,SAFE HAVEN,Nicholas Sparks,Combined Print Fiction,2013-03-24
+9,9781414319704,Tyndale House Publishers,DAMASCUS COUNTDOWN,Joel C Rosenberg,Combined Print Fiction,2013-03-24
+12,9781451647037,Howard Books,THE CHANCE,Karen Kingsbury,Combined Print Fiction,2013-03-24
+13,9780399158827,Penguin Group,CALCULATED IN DEATH,J D Robb,Combined Print Fiction,2013-03-24
+18,9780446571821,"Little, Brown & Company",11TH HOUR,James Patterson and Maxine Paetro,Combined Print Fiction,2013-03-24
+19,9781420118537,Kensington Publishing,YOU DON’T WANT TO KNOW,Lisa Jackson,Combined Print Fiction,2013-03-24
+20,9780786963645,Wizards of the Coast,THE LAST THRESHOLD,R A Salvatore,Combined Print Fiction,2013-03-24
+1,9780441020010,Penguin Group,FROST BURNED,Patricia Briggs,Combined Print Fiction,2013-03-24
+20,9780451233967,Penguin Group,STAY CLOSE,Harlan Coben,Combined Print Fiction,2013-03-17
+13,9780062078117,HarperCollins Publishers,IMMORTAL EVER AFTER,Lynsay Sands,Combined Print Fiction,2013-03-17
+16,9780758280343,Kensington Publishing,RED VELVET CUPCAKE MURDER,Joanne Fluke,Combined Print Fiction,2013-03-17
+16,9780393087727,Norton,WHITEY BULGER,Kevin Cullen and Shelley Murphy,Combined Print Nonfiction,2013-03-17
+20,9780670026715,Penguin Group,THE VATICAN DIARIES,John Thavis,Combined Print Nonfiction,2013-03-17
+15,9780307408853,Crown Publishing,IN THE GARDEN OF BEASTS,Erik Larson,Combined Print Nonfiction,2013-03-17
+17,9780307700667,Knopf Doubleday Publishing,GOING CLEAR,Lawrence Wright,Combined Print Nonfiction,2013-03-17
+18,9781400067558,Random House Publishing,BEHIND THE BEAUTIFUL FOREVERS,Katherine Boo,Combined Print Nonfiction,2013-03-17
+20,9781400067664,Random House Publishing,THOMAS JEFFERSON,Jon Meacham,Combined Print Nonfiction,2013-03-10
+18,9780345525550,Random House Publishing,THE LANGUAGE OF FLOWERS,Vanessa Diffenbaugh,Combined Print Fiction,2013-03-10
+17,9780770437855,Crown Publishing,THE DINNER,Herman Koch,Combined Print Fiction,2013-03-10
+15,9781616386108,FrontLine,THE HARBINGER,Jonathan Cahn,Combined Print Fiction,2013-03-10
+13,9780812993806,Random House Publishing,TENTH OF DECEMBER,George Saunders,Combined Print Fiction,2013-03-10
+12,9780345505736,Random House Publishing,GUILT,Jonathan Kellerman,Combined Print Fiction,2013-03-10
+10,9780765325952,Tom Doherty,A MEMORY OF LIGHT,Robert Jordan and Brandon Sanderson,Combined Print Fiction,2013-03-10
+19,9781476717463,Atria/Emily Bestler Books,WARM BODIES,Isaac Marion,Combined Print Fiction,2013-03-10
+20,9780307950659,Knopf Doubleday Publishing,DEATH COMES TO PEMBERLEY,P D James,Combined Print Fiction,2013-03-10
+19,9780670024872,Penguin Group,WHY PRIESTS?,Garry Wills,Combined Print Nonfiction,2013-03-10
+18,9781476707624,Gallery Books,DRINKING AND TWEETING,Brandi Glanville with Leslie Bruce,Combined Print Nonfiction,2013-03-10
+17,9781439150221,Simon & Schuster,LONG SHOT,Mike Piazza with Lonnie Wheeler,Combined Print Nonfiction,2013-03-10
+13,9780770435622,Broadway Books,LADY ALMINA AND THE REAL DOWNTON ABBEY,The Countess of Carnarvon,Combined Print Nonfiction,2013-03-10
+18,9780525953074,Penguin Group,TOUCH AND GO,Lisa Gardner,Combined Print Fiction,2013-03-03
+13,9780316211178,"Little, Brown & Company",PRIVATE BERLIN,James Patterson and Mark Sullivan,Combined Print Fiction,2013-03-03
+17,9780399161483,Penguin Group,SUSPECT,Robert Crais,Combined Print Fiction,2013-03-03
+20,9780399159725,Penguin Group,THE NIGHT RANGER,Alex Berenson,Combined Print Fiction,2013-03-03
+19,9780770437855,Crown Publishing Group,THE DINNER,Herman Koch,Combined Print Fiction,2013-03-03
+18,9781594487156,Penguin Group,TO SELL IS HUMAN,Daniel H Pink,Combined Print Nonfiction,2013-03-03
+14,9780062238399,HarperCollins Publishers,REMEMBERING WHITNEY,Cissy Houston with Lisa Dickey,Combined Print Nonfiction,2013-03-03
+20,9780743270755,Simon & Schuster,TEAM OF RIVALS,Doris Kearns Goodwin,Combined Print Nonfiction,2013-03-03
+6,9780812992946,Random House Publishing,FUTURE,Al Gore,Combined Print Nonfiction,2013-03-03
+17,9780440245223,Random House Publishing,BETRAYAL,Danielle Steel,Combined Print Fiction,2013-02-24
+19,9780446571869,"Little, Brown & Company",KILL ME IF YOU CAN,James Patterson and Marshall Karp,Combined Print Fiction,2013-02-24
+10,9780345530882,Random House Publishing,UNTIL THE END OF TIME,Danielle Steel,Combined Print Fiction,2013-02-24
+18,9780425267042,Penguin Group,RUSH,Maya Banks,Combined Print Fiction,2013-02-24
+20,9781439165317,Simon & Schuster,A DEEPER LOVE INSIDE,Sister Souljah,Combined Print Fiction,2013-02-24
+12,9780062248473,HarperCollins Publishers,BEYOND BELIEF,Jenna Miscavige Hill with Lisa Pulitzer,Combined Print Nonfiction,2013-02-24
+15,9780465028115,Basic Books,THEORETICAL MINIMUM,Leonard Susskind,Combined Print Nonfiction,2013-02-24
+16,9781400069286,Random House Publishing,THE POWER OF HABIT,Charles Duhigg,Combined Print Nonfiction,2013-02-24
+17,9781451656039,Simon & Schuster,TEN YEARS LATER,Hoda Kotb with Jane Lorenzini,Combined Print Nonfiction,2013-02-24
+20,9780670024810,Penguin Group,THE WORLD UNTIL YESTERDAY,Jared Diamond,Combined Print Nonfiction,2013-02-24
+17,9781400067619,Random House Publishing,ENGINEERS OF VICTORY,Paul Kennedy,Combined Print Nonfiction,2013-02-17
+5,9780446585187,Grand Central Publishing,HITMAKER,Tommy Mottola with Cal Fussman,Combined Print Nonfiction,2013-02-17
+14,9780385344036,Random House Publishing,SPEAKING FROM AMONG THE BONES,Alan Bradley,Combined Print Fiction,2013-02-17
+16,9780446553971,Grand Central Publishing,THE FIFTH ASSASSIN,Brad Meltzer,Combined Print Fiction,2013-02-17
+16,9780446571784,Grand Central,PRIVATE: #1 SUSPECT,James Patterson and Maxine Paetro,Combined Print Fiction,2013-02-10
+18,9780385350280,Knopf Doubleday Publishing,THE TWELVE TRIBES OF HATTIE,Ayana Mathis,Combined Print Fiction,2013-02-10
+17,9780385535144,Knopf Doubleday Publishing,THE RACKETEER,John Grisham,Combined Print Fiction,2013-02-10
+15,9781451640205,Simon & Schuster,THE THIRD BULLET,Stephen Hunter,Combined Print Fiction,2013-02-10
+7,9780061957918,HarperCollins Publishers,EVER AFTER,Kim Harrison,Combined Print Fiction,2013-02-10
+14,9781591844754,Penguin Group,MY SHARE OF THE TASK,Stanley McChrystal,Combined Print Nonfiction,2013-02-10
+16,9780399161643,Penguin Group,THE DUDE AND THE ZEN MASTER,Jeff Bridges and Bernie Glassman,Combined Print Nonfiction,2013-02-10
+17,9781400052189,Crown Publishing,THE IMMORTAL LIFE OF HENRIETTA LACKS,Rebecca Skloot,Combined Print Nonfiction,2013-02-10
+11,9781455515035,Grand Central Publishing,TOTAL FRAT MOVE,W R Bolen and the creators of TotalFratMovecom,Combined Print Nonfiction,2013-02-03
+19,9781451648973,Howard Books,AN INVISIBLE THREAD,Laura L Schroff,Combined Print Nonfiction,2013-02-03
+20,9780316224581,"Little, Brown & Company",STANDING IN ANOTHER MAN'S GRAVE,Ian Rankin,Combined Print Fiction,2013-02-03
+19,9780425263907,Berkley,BARED TO YOU,Sylvia Day,Combined Print Fiction,2013-02-03
+17,9780345536594,Random House Publishing,ODD INTERLUDE,Dean Koontz,Combined Print Fiction,2013-02-03
+12,9780525953616,Penguin Group,MRS. LINCOLN'S DRESSMAKER,Jennifer Chiaverini,Combined Print Fiction,2013-02-03
+11,9780312651329,St. Martin's Press,THE HUSBAND LIST,Janet Evanovich and Dorien Kelly,Combined Print Fiction,2013-01-27
+19,9780061969676,HarperCollins Publishers,1356,Bernard Cornwell,Combined Print Fiction,2013-01-27
+16,9780399158957,Penguin Group,DREAM EYES,Jayne Ann Krentz,Combined Print Fiction,2013-01-27
+14,9780061991042,HarperCollins Publishers,THE BLOOD GOSPEL,James Rollins and Rebecca Cantrell,Combined Print Fiction,2013-01-27
+10,9780399159862,Penguin Group,COLLATERAL DAMAGE,Stuart Woods,Combined Print Fiction,2013-01-27
+8,9780399163838,Penguin Group,KINSEY AND ME,Sue Grafton,Combined Print Fiction,2013-01-27
+17,9781594204111,Penguin Group,THE SIGNAL AND THE NOISE,Nate Silver,Combined Print Nonfiction,2013-01-27
+20,9780446583978,Grand Central Publishing,AMERICA AGAIN,Stephen Colbert and others,Combined Print Nonfiction,2013-01-27
+19,9780425263914,Penguin Group,REFLECTED IN YOU,Sylvia Day,Combined Print Fiction,2013-01-20
+20,9780345506931,Random House Publishing,SHADOW WOMAN,Linda Howard,Combined Print Fiction,2013-01-20
+16,9781455516049,FaithWords,CROSS ROADS,Wm Paul Young,Combined Print Fiction,2013-01-20
+14,9780399160455,Penguin Group,THREAT VECTOR,Tom Clancy with Mark Greaney,Combined Print Fiction,2013-01-20
+13,9780446573054,Grand Central Publishing,THE FORGOTTEN,David Baldacci,Combined Print Fiction,2013-01-20
+7,9780399160660,Penguin Group,EMPIRE AND HONOR,W E B Griffin and William E Butterworth IV,Combined Print Fiction,2013-01-20
+19,9780547564654,Houghton Mifflin Harcourt,HOW CHILDREN SUCCEED,Paul Tough,Combined Print Nonfiction,2013-01-20
+17,9780062193643,HarperCollins Publishers,ROLL ME UP AND SMOKE ME WHEN I DIE,Willie Nelson,Combined Print Nonfiction,2013-01-20
+15,9780307352149,Crown Publishing,QUIET,Susan Cain,Combined Print Nonfiction,2013-01-20
+18,9780373777204,Harlequin,BIG SKY RIVER,Linda Lael Miller,Combined Print Fiction,2013-01-20
+14,9780345527745,Random House Publishing,NOTORIOUS NINETEEN,Janet Evanovich,Combined Print Fiction,2013-01-13
+8,9780316228534,"Little, Brown & Company",THE CASUAL VACANCY,J K Rowling,Combined Print Fiction,2013-01-13
+7,9780316210683,"Little, Brown & Company","MERRY CHRISTMAS, ALEX CROSS",James Patterson,Combined Print Fiction,2013-01-13
+18,9780316547703,"Little, Brown & Company",LAST LION,William Manchester and Paul Reid,Combined Print Nonfiction,2013-01-13
+19,9781594203763,Penguin Group,PATRIARCH,David Nasaw,Combined Print Nonfiction,2013-01-13
+16,9780375507250,Random House Publishing,CLOUD ATLAS,David Mitchell,Combined Print Fiction,2013-01-13
+17,9780399159466,Penguin Group,WAGING HEAVY PEACE,Neil Young,Combined Print Nonfiction,2013-01-13
+18,9780316069434,"Little, Brown & Company",THE BLACK BOX,Michael Connelly,Combined Print Fiction,2013-01-13
+19,9781416595212,Atria/Emily Bestler Books,THE LAST MAN,Vince Flynn,Combined Print Fiction,2013-01-13
+11,9781439191828,Touchstone,BRUCE,Peter Ames Carlin,Combined Print Nonfiction,2013-01-13
+15,9780316227704,"Little, Brown & Company",UNDERWATER DOGS,Seth Casteel,Combined Print Nonfiction,2013-01-06
+17,9780316133265,"Little, Brown & Company",THE ONION BOOK OF KNOWN KNOWLEDGE,the staff of The Onion,Combined Print Nonfiction,2013-01-06
+19,9781400049622,Crown Publishing,THE ZOMBIE SURVIVAL GUIDE,Max Brooks,Combined Print Nonfiction,2013-01-06
+12,9781401322786,Hyperion Press,THE TIME KEEPER,Mitch Albom,Combined Print Fiction,2013-01-06
+20,9781476716695,Threshold Editions,AGENDA 21,Glenn Beck with Harriet Parke,Combined Print Fiction,2013-01-06
+16,9780062124265,HarperCollins Publishers,FLIGHT BEHAVIOR,Barbara Kingsolver,Combined Print Fiction,2013-01-06
+10,9781591845737,Penguin Group,TAP DANCING TO WORK,Carol J Loomis,Combined Print Nonfiction,2012-12-30
+18,9780307986962,Crown Publishing,JOY OF HATE,Greg Gutfeld,Combined Print Nonfiction,2012-12-30
+19,9780062065247,HarperCollins Publishers,THE ROUND HOUSE,Louise Erdrich,Combined Print Fiction,2012-12-30
+10,9780446554992,Grand Central Publishing,TWO GRAVES,Douglas Preston and Lincoln Child,Combined Print Fiction,2012-12-30
+14,9780812993684,Random House Publishing,DOGFIGHT,Calvin Trillin,Combined Print Nonfiction,2012-12-23
+16,9781400067824,Random House Publishing,ANTIFRAGILE,Nassim Nicholas Taleb,Combined Print Nonfiction,2012-12-23
+17,9780743236713,Scribner,FAR FROM THE TREE,Andrew Solomon,Combined Print Nonfiction,2012-12-23
+11,9780525952923,Penguin Group,WINTER OF THE WORLD,Ken Follett,Combined Print Fiction,2012-12-23
+14,9780451464408,Penguin Group,COLD DAYS,Jim Butcher,Combined Print Fiction,2012-12-23
+19,9781455515554,Grand Central Publishing,PRIVATE LONDON,James Patterson and Mark Pearson,Combined Print Fiction,2012-12-23
+20,9781451650051,Pocket Books,SHADOW’S CLAIM,Kresley Cole,Combined Print Fiction,2012-12-16
+17,9780425246047,Penguin Group,THE PERFECT HOPE,Nora Roberts,Combined Print Fiction,2012-12-16
+16,9781455510191,"Little, Brown & Company",KILL ALEX CROSS,James Patterson,Combined Print Fiction,2012-12-16
+16,9781451648287,Simon & Schuster,"FATAL FRIENDS, DEADLY NEIGHBORS",Ann Rule,Combined Print Nonfiction,2012-12-16
+18,9780399162923,Penguin Group,POSEIDON'S ARROW,Clive Cussler and Dirk Cussler,Combined Print Fiction,2012-12-09
+18,9780316185394,"Little, Brown & Company",THE OUTPOST,Jake Tapper,Combined Print Nonfiction,2012-12-09
+20,9781451613513,Simon & Schuster,THE UNTOLD HISTORY OF THE UNITED STATES,Oliver Stone and Peter Kuznick,Combined Print Nonfiction,2012-12-09
+18,9780345538192,Random House Publishing,ONE SHOT,Lee Child,Combined Print Fiction,2012-12-02
+6,9780670025299,Penguin Group,HOW TO CREATE A MIND,Ray Kurzweil,Combined Print Nonfiction,2012-12-02
+7,9780385536820,Knopf Doubleday Publishing,SWEET TOOTH,Ian McEwan,Combined Print Fiction,2012-12-02
+20,9780307957245,Knopf Doubleday Publishing,HALLUCINATIONS,Oliver Sacks,Combined Print Nonfiction,2012-12-02
+16,9780446580847,Grand Central Publishing,THE PANTHER,Nelson DeMille,Combined Print Fiction,2012-12-02
+14,9781594204043,Penguin Books,GENERALS,Thomas E Ricks,Combined Print Nonfiction,2012-11-25
+15,9780307987303,Crown Publishing,ROD,Rod Stewart,Combined Print Nonfiction,2012-11-25
+16,9781451626209,Simon & Schuster,CUSTER,Larry McMurtry,Combined Print Nonfiction,2012-11-25
+18,9780062127242,HarperCollins Publishers,WHO I AM,Pete Townshend,Combined Print Nonfiction,2012-11-25
+20,9781455519002,Grand Central Publishing,THE INNOCENT,David Baldacci,Combined Print Fiction,2012-11-25
+18,9780440245209,Random House Publishing,HOTEL VENDOME,Danielle Steel,Combined Print Fiction,2012-11-25
+15,9780399157561,Penguin Group,THE BONE BED,Patricia Cornwell,Combined Print Fiction,2012-11-25
+14,9780385343206,Random House Publishing,THE SINS OF THE MOTHER,Danielle Steel,Combined Print Fiction,2012-11-25
+19,9780425250563,Penguin Group,V IS FOR VENGEANCE,Sue Grafton,Combined Print Fiction,2012-11-25
+11,9781451628036,Simon & Schuster,A WINTER DREAM,Richard Paul Evans,Combined Print Fiction,2012-11-18
+12,9780778313854,Harlequin,MY KIND OF CHRISTMAS,Ron Carr,Combined Print Fiction,2012-11-18
+17,9780385344401,Random House Publishing,ICED,Karen Marie Moning,Combined Print Fiction,2012-11-18
+15,9780778313908,Mira,1225 CHRISTMAS TREE LANE,Debbie Macomber,Combined Print Fiction,2012-11-18
+18,9780316199865,"Little, Brown & Company",NYPD RED,James Patterson and Marshall Karp,Combined Print Fiction,2012-11-18
+20,9780316036313,"Little, Brown & Company",BACK TO BLOOD,Tom Wolfe,Combined Print Fiction,2012-11-18
+12,9781451688092,Simon & Schuster,TEAM OF RIVALS,Doris Kearns Goodwin,Combined Print Nonfiction,2012-11-18
+9,9780345531360,Random House Publishing,A GIFT OF HOPE,Danielle Steel,Combined Print Nonfiction,2012-11-18
+19,9781594631375,Penguin Group,LOST AT SEA,Jon Ronson,Combined Print Nonfiction,2012-11-18
+20,9780812993400,Random House Publishing,INTO THE FIRE,Dakota Meyer and Bing West,Combined Print Nonfiction,2012-11-11
+18,9780062240590,HarperCollins Publishers,HERE COME THE BLACK HELICOPTERS!,Dick Morris & Eileen McGann,Combined Print Nonfiction,2012-11-11
+17,9780307594037,Knopf Doubleday Publishing,THE END OF YOUR LIFE BOOK CLUB,Will Schwalbe,Combined Print Nonfiction,2012-11-11
+15,9781455527472,Grand Central Publishing,WHY I LEFT GOLDMAN SACHS,Greg Smith,Combined Print Nonfiction,2012-11-11
+14,9780307387097,Knopf Doubleday Publishing,HALF THE SKY,Nicholas D Kristof and Sheryl WuDunn,Combined Print Nonfiction,2012-11-11
+11,9781594204098,Penguin Group,PLUTOCRATS,Chrystia Freeland,Combined Print Nonfiction,2012-11-11
+7,9781451620825,Simon & Schuster,MAKEUP TO BREAKUP,Peter Criss with Larry Sloman,Combined Print Nonfiction,2012-11-11
+11,9781451647013,Howard Books,THE BRIDGE,Karen Kingsbury,Combined Print Fiction,2012-11-11
+16,9780345528872,Random House Publishing,ANGELS AT THE TABLE,Debbie Macomber,Combined Print Fiction,2012-11-11
+14,9780373776962,Harlequin,WYOMING FIERCE,Diana Palmer,Combined Print Fiction,2012-11-11
+20,9780446556699,"Little, Brown & Company",THE DROP,Michael Connelly,Combined Print Fiction,2012-11-11
+13,9781595230997,Penguin Group,MUGGED,Ann Coulter,Combined Print Nonfiction,2012-11-04
+7,9780802120342,Grove/Atlantic,THE FINISH,Mark Bowden,Combined Print Nonfiction,2012-11-04
+6,9780525958000,Penguin Group,IN THE PLEASURE GROOVE,John Taylor with Tom Sykes,Combined Print Nonfiction,2012-11-04
+20,9780451232854,Penguin Group,FALL OF GIANTS,Ken Follett,Combined Print Fiction,2012-11-04
+19,9780425250488,Penguin Group,SHOCK WAVE,John Sandford,Combined Print Fiction,2012-11-04
+18,9780312547745,St. Martin's Press,"THE WALKING DEAD, RISE OF THE GOVERNOR",Robert Kirkman and Jay Bonansinga,Combined Print Fiction,2012-11-04
+15,9780399157707,Penguin Group,MAD RIVER,John Sandford,Combined Print Fiction,2012-11-04
+12,9781439152805,Atria Books,THE SECRET KEEPER,Kate Morton,Combined Print Fiction,2012-11-04
+2,9780345504982,Random House Publishing,THE TWELVE,Justin Cronin,Combined Print Fiction,2012-11-04
+20,9780307886279,Crown Publishing,IS EVERYONE HANGING OUT WITHOUT ME?,Mindy Kaling,Combined Print Nonfiction,2012-11-04
+>>>>>>> 8262a2cd76254d6341dd1bfd99e6d55398e71265
