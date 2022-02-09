@@ -1,5 +1,5 @@
 # Project1
-Research Question 1: What are the top ten rated books and their authors?
+## Research Question 1: What are the top ten rated books and their authors?
 
 The top ten books rated books on Amazon (having ratings of 4.9 or 5) are:
 -	“The Quiet” by Susan Cain
@@ -13,20 +13,20 @@ The top ten books rated books on Amazon (having ratings of 4.9 or 5) are:
 -	“Immune” by Philipp Dettmer
 -	“This Bright Future” by Bob Hall
 
-Research Question 2: What is the average price for each book category?
+## Research Question 2: What is the average price for each book category?
 
 ![Average_price](images/Average_book_price.png)
 
 The average prices for each book category, from most expensive to least expensive, were: hardcover fiction (M= $15.87), hardcover fiction (M= $13.25), combined print nonfiction (M=$10.38), combined print fiction (M=$7.65), e-book nonfiction (M=$7.09), and e-book fiction (M=$6.89). Hardcover fiction appears to be the most expensive book category. 
 
  
-Research Question 3: What is the average number of ratings for each book category?
+## Research Question 3: What is the average number of ratings for each book category?
 ![Average_num_rated_books](images/Average_num_rated_books.png) 
  
 Hardcover fiction was the category with the highest number of ratings at over 10,000. The remaining categories had the following number of reviews, on average: combined print fiction (M = 5,309.38), e-book fiction (M= 5,040.00), hardcover nonfiction (M=4,173.57), combined print nonfiction (M= 3,180.87), and e-book nonfiction (2,977.57).
 
  
-Research Question 4: Who are the top 10 authors with the most best selling books in all categories?
+## Research Question 4: Who are the top 10 authors with the most best selling books in all categories?
 ![Top_10_authers_with_most_books](images/Top_10_authers_with_most_books.png) 
 
 We determined who were the top ten authors in our sample, and evaluated how many bestselling books they had and in which categories the books were available. The top ten bestselling authors in our sample were:
@@ -43,7 +43,7 @@ We determined who were the top ten authors in our sample, and evaluated how many
 These authors had multiple bestselling publications across multiple categories, including e-books and printed books.
 
  
-Research Question 5: Which books are the top ten most popular overall?
+## Research Question 5: Which books are the top ten most popular overall?
 ![top_10_most_popular-books](images/top_10_most_popular-books.png)
 
 The list below shows the most popular books on Amazon (e.g. having the highest number of reviews).
@@ -60,22 +60,25 @@ The list below shows the most popular books on Amazon (e.g. having the highest n
 -	“Sapiens” by Yuval Norah Harari
 
 
-Research Question 6: What are the Amazon ratings for the books ranked #1 on the NYT Bestseller list?
+## Research Question 6: What are the Amazon ratings for the books ranked #1 on the NYT Bestseller list?
 
 ![Ratings_vs_NYT_ranking](images/Ratings_vs_NYT_ranking.png)
 
 We narrowed our sample down to the books listed as number one on the New York Times’ Bestseller List and looked at their ratings on Amazon. It appears that these books (printed and e-book) were rated quite highly on Amazon (between 4-5 stars).
 
  
-Research Question 7: Which books were rated most highly: printed or e-books on Amazon? Fiction or nonfiction?
-![E_book_or_Printed_rate_star](images/E_book_or_Printed_rate_star.png)
+## Research Question 7: Which books were rated most highly: printed or e-books on Amazon? Fiction or nonfiction?
 
 ![E_book_or_Printed_popularity](images/E_book_or_Printed_popularity.png)
 
-Printed books appeared to have more high rating books (57.4%) compared to e-books (42.6%).  The ratings appear to be about the same for nonfiction books(50.4%) and fiction books (49.6%).
+Printed books appeared to have more high rating books (57.4%) compared to e-books (42.6%). 
+
+![Fic_not_fic_rate_star](images/Fic_not_fic_rate_star.png)
+
+The ratings appear to be about the same for nonfiction books(50.4%) and fiction books (49.6%).
 
  
-Research Question 8: Which type of book is more popular on Amazon: printed books or e-books?
+## Research Question 8: Which type of book is more popular on Amazon: printed books or e-books?
 ![box_plot](images/box_plot.png)
 
 We conduct a Shapiro-Wilk’s test to determine if our groups were normally distributed. The results of this test revealed that our samples were not normally distributed (W= 0.42, p < 0.01), thus we violated the normality assumption necessary to the two-samples t-test. 
