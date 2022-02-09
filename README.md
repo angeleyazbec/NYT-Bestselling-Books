@@ -61,7 +61,6 @@ The list below shows the most popular books on Amazon (e.g. having the highest n
 
 
 Research Question 6: What are the Amazon ratings for the books ranked #1 on the NYT Bestseller list?
-![Ranking_vs_rating](images/Ranking_vs_rating.png)
 
 ![Ratings_vs_NYT_ranking](images/Ratings_vs_NYT_ranking.png)
 
@@ -70,6 +69,7 @@ We narrowed our sample down to the books listed as number one on the New York Ti
  
 Research Question 7: Which books were rated most highly: printed or e-books on Amazon? Fiction or nonfiction?
 ![E_book_or_Printed_rate_star](images/E_book_or_Printed_rate_star.png)
+
 ![E_book_or_Printed_popularity](images/E_book_or_Printed_popularity.png)
 
 Printed books appeared to have more high rating books (57.4%) compared to e-books (42.6%).  The ratings appear to be about the same for nonfiction books(50.4%) and fiction books (49.6%).
