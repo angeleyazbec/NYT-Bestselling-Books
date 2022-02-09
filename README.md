@@ -83,5 +83,5 @@ The ratings appear to be about the same for nonfiction books(50.4%) and fiction 
 
 We conduct a Shapiro-Wilk’s test to determine if our groups were normally distributed. The results of this test revealed that our samples were not normally distributed (W= 0.42, p < 0.01), thus we violated the normality assumption necessary to the two-samples t-test. 
 
-Therefore, we used the Mann-Whitney U Test, which allows for us to test for the differences between these groups, even though they are not normally distributed. The result of this test revealed that there was a statistically significant difference between printed books and e-books (U= 68,449.00, p < 0.01) such that e-books (M = 5,661.46) were more popular on Amazon than printed books (M= 4,205.49).
+Therefore, we used the Mann-Whitney U Test, which allows for us to test for the differences between these groups, even though they are not normally distributed. The result of this test revealed that there was a statistically significant difference between printed books and e-books (U= 68,449.00, p < 0.01) such that printed (M = 5,661.46) were more popular on Amazon than e-books books (M= 4,205.49).
 
