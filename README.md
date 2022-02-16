@@ -1,4 +1,9 @@
 # Project1
+
+## Try main.py to know what best books on your budget is?
+
+![app](images/app.gif)
+
 ## Research Question 1: What are the top ten rated books and their authors?
 
 The top ten books rated books on Amazon (having ratings of 4.9 or 5) are:
