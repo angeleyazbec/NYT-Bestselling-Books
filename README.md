@@ -1,6 +1,6 @@
 # Project1
 
-## Try main.py to know what best books on your budget is?
+## What is the most popular and best selling books on your budget?
 
 ![app](images/app.gif)
 
